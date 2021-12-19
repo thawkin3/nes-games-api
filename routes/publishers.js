@@ -3,7 +3,7 @@ const nesGames = require('../nes_games.json');
 
 const router = express.Router();
 
-router.get('/', function(req, res) {
+router.get('/', function (req, res) {
   const publishers = nesGames.reduce((publishers, game) => {
     if (publishers.includes(game.publisher) || !game.publisher) {
       return publishers;
@@ -17,10 +17,12 @@ router.get('/', function(req, res) {
   res.json(publishersJsonResult);
 });
 
-router.get('/:publisher', function(req, res) {
+router.get('/:publisher', function (req, res) {
   const publisher = req.params.publisher;
-  const gamesByPublisher = nesGames.filter(games => games.publisher === publisher);
-  
+  const gamesByPublisher = nesGames.filter(
+    (games) => games.publisher === publisher
+  );
+
   res.json({ data: gamesByPublisher });
 });
 

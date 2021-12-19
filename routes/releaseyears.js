@@ -3,7 +3,7 @@ const nesGames = require('../nes_games.json');
 
 const router = express.Router();
 
-router.get('/', function(req, res) {
+router.get('/', function (req, res) {
   const releaseYears = nesGames.reduce((releaseYears, game) => {
     if (releaseYears.includes(game.releaseYear) || !game.releaseYear) {
       return releaseYears;
@@ -17,10 +17,12 @@ router.get('/', function(req, res) {
   res.json(releaseYearsJsonResult);
 });
 
-router.get('/:releaseYear', function(req, res) {
+router.get('/:releaseYear', function (req, res) {
   const releaseYear = req.params.releaseYear;
-  const gamesReleasedInYear = nesGames.filter(games => String(games.releaseYear) === releaseYear);
-  
+  const gamesReleasedInYear = nesGames.filter(
+    (games) => String(games.releaseYear) === releaseYear
+  );
+
   res.json({ data: gamesReleasedInYear });
 });
 
