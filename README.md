@@ -6,8 +6,7 @@ This is a simple API built with Node and Express that returns metadata for every
 
 1. `yarn install`
 2. `yarn start`
-
-Navigate to http://localhost:3000 in your browser
+3. Navigate to http://localhost:3000 in your browser
 
 ## Available Endpoints
 
