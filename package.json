@@ -1,0 +1,32 @@
+{
+  "name": "nes-games-api",
+  "version": "1.0.0",
+  "description": "API built with Node and Express that returns metadata for every NES game ever published",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "format-watch": "onchange . -- prettier --write {{changed}}",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "api",
+    "backend",
+    "json",
+    "nintendo",
+    "nes",
+    "games",
+    "database"
+  ],
+  "author": "Tyler Hawkins",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "onchange": "^7.1.0",
+    "prettier": "^2.4.1"
+  }
+}

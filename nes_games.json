@@ -1,0 +1,7770 @@
+[
+  {
+    "id": 1,
+    "title": "10-Yard Fight",
+    "publisher": "Nintendo",
+    "developer": "Irem",
+    "category": "Sports",
+    "releaseYear": null
+  },
+  {
+    "id": 2,
+    "title": "1942",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 3,
+    "title": "1943: The Battle of Midway",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 4,
+    "title": "1991 Du Ma Racing",
+    "publisher": "Super Mega",
+    "developer": "Idea-Tek",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 5,
+    "title": "1999: Hore, Mita koto ka! Seikimatsu",
+    "publisher": "Coconuts Japan Entertainment",
+    "developer": "Coconuts Japan Entertainment",
+    "category": "Traditional",
+    "releaseYear": 1992
+  },
+  {
+    "id": 6,
+    "title": "3D World Runner",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Square Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 7,
+    "title": "4 Nin Uchi Mahjong",
+    "publisher": "Nintendo",
+    "developer": "Hudson Soft",
+    "category": "Traditional",
+    "releaseYear": 1984
+  },
+  {
+    "id": 8,
+    "title": "720 Degrees",
+    "publisher": "Mindscape",
+    "developer": "Atari",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 9,
+    "title": "8 Eyes",
+    "publisher": "Taxan",
+    "developer": "Thinking Rabbit",
+    "category": "Fighting",
+    "releaseYear": null
+  },
+  {
+    "id": 10,
+    "title": "'89 Dennou Kyuusei Uranai",
+    "publisher": "Induction Produce",
+    "developer": "Induction Produce",
+    "category": "Simulation",
+    "releaseYear": 1988
+  },
+  {
+    "id": 11,
+    "title": "A Boy and his Blob: Trouble on Blobolonia",
+    "publisher": "Absolute Entertainment",
+    "developer": "Absolute Entertainment",
+    "category": "Puzzle",
+    "releaseYear": 1989
+  },
+  {
+    "id": 12,
+    "title": "A Nightmare on Elm Street",
+    "publisher": "LJN, Ltd.",
+    "developer": "Rare, Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 13,
+    "title": "Aa Yakyuu Jinsei Icchokusen",
+    "publisher": "Sammy Corporation",
+    "developer": "Sammy Corporation",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 14,
+    "title": "Abadox: The Deadly Inner War",
+    "publisher": "Milton Bradley",
+    "developer": "Natsume, Inc.",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 15,
+    "title": "Action 52",
+    "publisher": "Active",
+    "developer": "Active",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 16,
+    "title": "Addams Family, The",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Ocean Software Ltd.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 17,
+    "title": "Addams Family: Pugsley's Scavenger Hunt",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Ocean Software Ltd.",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 18,
+    "title": "Adventure Island",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 19,
+    "title": "Adventure Island 2",
+    "publisher": "Hudson Soft",
+    "developer": "Now Production",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 20,
+    "title": "Adventure Island 3",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 21,
+    "title": "Adventures in the Magic Kingdom",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 22,
+    "title": "Adventures of Bayou Billy",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 23,
+    "title": "Adventures of Dino-Riki",
+    "publisher": "Hudson Soft",
+    "developer": "Rix Soft",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 24,
+    "title": "Adventures of Gilligan's Island",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 25,
+    "title": "Adventures of Lolo",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Puzzle",
+    "releaseYear": 1989
+  },
+  {
+    "id": 26,
+    "title": "Adventures of Lolo 3",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 27,
+    "title": "Adventures of Lolo 2",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 28,
+    "title": "Adventures of Rad Gravity",
+    "publisher": "Activision",
+    "developer": "Interplay Productions",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 29,
+    "title": "Adventures of Rocky and Bullwinkle and Friends",
+    "publisher": "THQ, Inc.",
+    "developer": "Radical Entertainment",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 30,
+    "title": "Adventures of Tom Sawyer",
+    "publisher": "SETA Corporation",
+    "developer": "SETA Corporation",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 31,
+    "title": "After Burner",
+    "publisher": "Tengen Ltd.",
+    "developer": "Sega",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 32,
+    "title": "After Burner II",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Sega",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 33,
+    "title": "Ai Sensei no Oshiete: Watashi no Hoshi",
+    "publisher": "Irem",
+    "developer": "Irem",
+    "category": "Simulation",
+    "releaseYear": 1993
+  },
+  {
+    "id": 34,
+    "title": "Air",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 35,
+    "title": "Air Fortress",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 36,
+    "title": "Airwolf",
+    "publisher": "Nintendo",
+    "developer": "Acclaim Entertainment",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 37,
+    "title": "Akagawa Jirou no Yuurei Ressha",
+    "publisher": "King Records",
+    "developer": "King Records",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 38,
+    "title": "Akira",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Adventure",
+    "releaseYear": 1988
+  },
+  {
+    "id": 39,
+    "title": "Akumajo Special: Boku Dracula-kun",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 40,
+    "title": "Akuma-kun: Makai no Wana",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 41,
+    "title": "Al Unser Jr. Turbo Racing",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 42,
+    "title": "Aladdin",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "Virgin Games, Ltd.",
+    "category": "Action",
+    "releaseYear": 1994
+  },
+  {
+    "id": 43,
+    "title": "Alcatraz",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 44,
+    "title": "Alfred Chicken",
+    "publisher": "Mindscape",
+    "developer": "Twilight",
+    "category": "Action",
+    "releaseYear": 1994
+  },
+  {
+    "id": 45,
+    "title": "Alien Pinball",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 46,
+    "title": "Alien Syndrome",
+    "publisher": "Tengen Ltd.",
+    "developer": "Sega",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 47,
+    "title": "Alien³",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Probe",
+    "category": "Puzzle",
+    "releaseYear": 1993
+  },
+  {
+    "id": 48,
+    "title": "All-Pro Basketball",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Vic Tokai, Inc.",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 49,
+    "title": "Alpha Mission",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 50,
+    "title": "Altered Beast",
+    "publisher": "Asmik Corporation",
+    "developer": "Sega",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 51,
+    "title": "Amagon",
+    "publisher": "Sammy Corporation",
+    "developer": "Aicom Corporation",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 52,
+    "title": "America Daitouryou Senkyo",
+    "publisher": "Hect Co. Ltd.",
+    "developer": "Hect Co. Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1988
+  },
+  {
+    "id": 53,
+    "title": "American Dream",
+    "publisher": "C Dream",
+    "developer": "Coconuts Japan Entertainment",
+    "category": "Adventure",
+    "releaseYear": 1989
+  },
+  {
+    "id": 54,
+    "title": "American Gladiators",
+    "publisher": "Gametek",
+    "developer": "Incredible Technologies",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 55,
+    "title": "Amerika Oudan Ultra Quiz: Shijou Saidai no Tatakai",
+    "publisher": "Tomy",
+    "developer": "Tomy",
+    "category": "Simulation",
+    "releaseYear": 1991
+  },
+  {
+    "id": 56,
+    "title": "Ankoku Shinwa: Yamato Takeru Densetsu",
+    "publisher": "Tokyo Shoseki",
+    "developer": "Another",
+    "category": "Adventure",
+    "releaseYear": 1989
+  },
+  {
+    "id": 57,
+    "title": "Antarctic Adventure",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 58,
+    "title": "Anticipation",
+    "publisher": "Nintendo",
+    "developer": "Rare, Ltd.",
+    "category": "Traditional",
+    "releaseYear": 1988
+  },
+  {
+    "id": 59,
+    "title": "Arch Rivals",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Midway Games",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 60,
+    "title": "Archon: The Light and the Dark",
+    "publisher": "Activision",
+    "developer": "Free Fall Associates",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 61,
+    "title": "Argus",
+    "publisher": "Jaleco Ltd.",
+    "developer": "NMK Co. Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 62,
+    "title": "Arkanoid",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 63,
+    "title": "Arkanoid - Revenge of DOH",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 64,
+    "title": "Arkista's Ring",
+    "publisher": "Sammy Corporation",
+    "developer": "Sammy Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 65,
+    "title": "Armadillo",
+    "publisher": "Information Global Service",
+    "developer": "Information Global Service",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 66,
+    "title": "Artelius",
+    "publisher": "Nihon Corp.",
+    "developer": "Nihon Corp.",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 67,
+    "title": "Asmik-kun Land",
+    "publisher": "Asmik Corporation",
+    "developer": "Asmik Corporation",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 68,
+    "title": "Asterix",
+    "publisher": "Infogrames",
+    "developer": "Bit Managers",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 69,
+    "title": "Astro Fang: Super Machine",
+    "publisher": "A Wave",
+    "developer": "A Wave",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 70,
+    "title": "Astro Robo Sasa",
+    "publisher": "ASCII Corporation",
+    "developer": "Mass Tael",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 71,
+    "title": "Astyanax, The",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 72,
+    "title": "Athena",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 73,
+    "title": "Athletic World",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 74,
+    "title": "Atlantis no Nazo",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1986
+  },
+  {
+    "id": 75,
+    "title": "Attack Animal Gakuen",
+    "publisher": "Pony Canyon",
+    "developer": "Newtopia Planning",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 76,
+    "title": "Attack of the Killer Tomatoes",
+    "publisher": "THQ, Inc.",
+    "developer": "Imagineering, Inc.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 77,
+    "title": "Aussie Rules Footy",
+    "publisher": "Laser Beam Entertainment",
+    "developer": "Beam Software",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 78,
+    "title": "B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin",
+    "publisher": "Hudson Soft",
+    "developer": "RED Company",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 79,
+    "title": "Baby Boomer",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 80,
+    "title": "Back to the Future",
+    "publisher": "LJN, Ltd.",
+    "developer": "Beam Software",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 81,
+    "title": "Back to the Future 2 & 3",
+    "publisher": "LJN, Ltd.",
+    "developer": "Beam Software",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 82,
+    "title": "Bad Dudes",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 83,
+    "title": "Bad Street Brawler",
+    "publisher": "Mattel Electronics",
+    "developer": "Beam Software",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 84,
+    "title": "Bakushou! Star Monomane Shitennou",
+    "publisher": "Pack-In-Video",
+    "developer": "Pack-In-Video",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 85,
+    "title": "Bakushou!! Ai no Gekijou",
+    "publisher": "Coconuts Japan Entertainment",
+    "developer": "Coconuts Japan Entertainment",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 86,
+    "title": "Bakushou!! Jinsei Gekijou",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Traditional",
+    "releaseYear": 1989
+  },
+  {
+    "id": 87,
+    "title": "Bakushou!! Jinsei Gekijou 2",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Traditional",
+    "releaseYear": 1991
+  },
+  {
+    "id": 88,
+    "title": "Bakushou!! Jinsei Gekijou 3",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Traditional",
+    "releaseYear": 1991
+  },
+  {
+    "id": 89,
+    "title": "Ballblazer",
+    "publisher": "Pony Canyon",
+    "developer": "LucasArts / LucasFilm",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 90,
+    "title": "Balloon Fight",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 91,
+    "title": "Banana",
+    "publisher": "Victor Musical Industries, Inc.",
+    "developer": "Victor Musical Industries, Inc.",
+    "category": "Puzzle",
+    "releaseYear": 1986
+  },
+  {
+    "id": 92,
+    "title": "Banana Prince",
+    "publisher": "TAKARA Co., Ltd.",
+    "developer": "KID Corp.",
+    "category": "Adventure",
+    "releaseYear": 1992
+  },
+  {
+    "id": 93,
+    "title": "Bandit Kings of Ancient China",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 94,
+    "title": "Barbie",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Imagineering, Inc.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 95,
+    "title": "Bard's Tale II: The Destiny Knight",
+    "publisher": "Pony Canyon",
+    "developer": "Interplay Productions",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 96,
+    "title": "Bard's Tale: Tales of the Unknown",
+    "publisher": "Pony Canyon",
+    "developer": "Interplay Productions",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 97,
+    "title": "Barker Bill's Trick Shooting",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 98,
+    "title": "Base Wars - Cyber Stadium Series",
+    "publisher": "Ultra Games",
+    "developer": "Konami",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 99,
+    "title": "Baseball",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1985
+  },
+  {
+    "id": 100,
+    "title": "Baseball Simulator 1.000",
+    "publisher": "Culture Brain",
+    "developer": "Culture Brain",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 101,
+    "title": "Baseball Stars",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 102,
+    "title": "Bases Loaded",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Tose",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 103,
+    "title": "Bases Loaded 3",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Tose",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 104,
+    "title": "Bases Loaded 4",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 105,
+    "title": "Bases Loaded II: Second Season",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Tose",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 106,
+    "title": "Batman Returns",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Fighting",
+    "releaseYear": 1993
+  },
+  {
+    "id": 107,
+    "title": "Batman: Return of the Joker",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 108,
+    "title": "Batman: The Video Game",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Action",
+    "releaseYear": null
+  },
+  {
+    "id": 109,
+    "title": "Battle Chess",
+    "publisher": "Data East Corporation",
+    "developer": "Beam Software",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 110,
+    "title": "Battle City",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 111,
+    "title": "Battle of Olympus",
+    "publisher": "Brøderbund Software",
+    "developer": "Infinity Co., Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1989
+  },
+  {
+    "id": 112,
+    "title": "Battle Toads",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Rare, Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 113,
+    "title": "Battle Toads & Double Dragon: The Ultimate Team",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Rare, Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1993
+  },
+  {
+    "id": 114,
+    "title": "Battleship",
+    "publisher": "Mindscape",
+    "developer": "Mindscape",
+    "category": "Strategy",
+    "releaseYear": 1993
+  },
+  {
+    "id": 115,
+    "title": "Bee 52",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 116,
+    "title": "Beetlejuice",
+    "publisher": "LJN, Ltd.",
+    "developer": "Rare, Ltd.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 117,
+    "title": "Best of the Best Championship Karate",
+    "publisher": "Electro-Brain",
+    "developer": "Loriciels",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 118,
+    "title": "Bible Adventures",
+    "publisher": "Wisdom Tree",
+    "developer": "Wisdom Tree",
+    "category": "Educational",
+    "releaseYear": 1991
+  },
+  {
+    "id": 119,
+    "title": "Bible Buffet",
+    "publisher": "Wisdom Tree",
+    "developer": "Wisdom Tree",
+    "category": "Shooter",
+    "releaseYear": 1993
+  },
+  {
+    "id": 120,
+    "title": "Big Bird's Hide and Speak",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "RSP",
+    "category": "Educational",
+    "releaseYear": 1990
+  },
+  {
+    "id": 121,
+    "title": "Big Nose Freaks Out",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 122,
+    "title": "Big Nose the Caveman",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 123,
+    "title": "Bigfoot",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Beam Software",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 124,
+    "title": "Bikkuriman World: Gekitou Sei Senshi",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 125,
+    "title": "Bill & Ted's Excellent Adventure",
+    "publisher": "LJN, Ltd.",
+    "developer": "LJN, Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 126,
+    "title": "Bill Elliott's NASCAR Challenge",
+    "publisher": "Konami",
+    "developer": "Distinctive Software",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 127,
+    "title": "Binary Land",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 128,
+    "title": "Bio Miracle Bokutte Upa",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 129,
+    "title": "Bionic Commando",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 130,
+    "title": "Bio-Senshi Dan: Increaser to no Tatakai",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Atlus Co., Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1987
+  },
+  {
+    "id": 131,
+    "title": "Bird Week",
+    "publisher": "Toshiba-EMI Ltd.",
+    "developer": "Toshiba-EMI Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1986
+  },
+  {
+    "id": 132,
+    "title": "Bishoujo Control",
+    "publisher": "Hacker International",
+    "developer": "HARD",
+    "category": "Adult",
+    "releaseYear": 1990
+  },
+  {
+    "id": 133,
+    "title": "Black Bass",
+    "publisher": "Hot-B Co., Ltd.",
+    "developer": "Another",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 134,
+    "title": "Black Onyx",
+    "publisher": "Bullet-Proof Software",
+    "developer": "Bullet-Proof Software",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 135,
+    "title": "Blackjack",
+    "publisher": "American Video Entertainment",
+    "developer": "Odyssey Software",
+    "category": "Traditional",
+    "releaseYear": 1992
+  },
+  {
+    "id": 136,
+    "title": "Blades of Steel",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 137,
+    "title": "Blaster Master",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Tokai Engineering",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 138,
+    "title": "Bloody Warriors: Shan Go no Gyakushuu",
+    "publisher": "Toei Animation",
+    "developer": "Micronics",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 139,
+    "title": "Blue Marlin",
+    "publisher": "Hot-B Co., Ltd.",
+    "developer": "Hot-B Co., Ltd.",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 140,
+    "title": "Blues Brothers",
+    "publisher": "Titus Software",
+    "developer": "Titus Software",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 141,
+    "title": "Bo Jackson Baseball",
+    "publisher": "Data East Corporation",
+    "developer": "Beam Software",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 142,
+    "title": "Bomberman",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 143,
+    "title": "Bomberman 2",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 144,
+    "title": "Booby Kids",
+    "publisher": "Nihon Corp.",
+    "developer": "Nihon Corp.",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 145,
+    "title": "Boulder Dash",
+    "publisher": "JVC Musical Industries",
+    "developer": "First Star Software",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 146,
+    "title": "Bram Stoker's Dracula",
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Probe",
+    "category": "Puzzle",
+    "releaseYear": 1993
+  },
+  {
+    "id": 147,
+    "title": "Break Thru",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Racing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 148,
+    "title": "Break Time: The National Pool Tour",
+    "publisher": "Pony Canyon",
+    "developer": "Opera House",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 149,
+    "title": "Bubble Bath Babes",
+    "publisher": "Panesian",
+    "developer": "Hacker International",
+    "category": "Adult",
+    "releaseYear": 1991
+  },
+  {
+    "id": 150,
+    "title": "Bubble Bobble",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 151,
+    "title": "Bucky O'Hare",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 152,
+    "title": "Bugs Bunny Birthday Blowout",
+    "publisher": "Kotobuki System",
+    "developer": "Kotobuki System",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 153,
+    "title": "Bugs Bunny Crazy Castle",
+    "publisher": "Kemco",
+    "developer": "Kemco",
+    "category": "Puzzle",
+    "releaseYear": 1989
+  },
+  {
+    "id": 154,
+    "title": "Bump 'n' Jump",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Data East Corporation",
+    "category": "Racing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 155,
+    "title": "Burai Fighter",
+    "publisher": "Taxan",
+    "developer": "KID Corp.",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 156,
+    "title": "Burger Time",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 157,
+    "title": "B-Wings",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 158,
+    "title": "Cabal",
+    "publisher": "Milton Bradley",
+    "developer": "Tad Corporation",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 159,
+    "title": "Caesar's Palace",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "Virgin Games, Ltd.",
+    "category": "Traditional",
+    "releaseYear": 1992
+  },
+  {
+    "id": 160,
+    "title": "California Games",
+    "publisher": "Milton Bradley",
+    "developer": "Epyx, Inc.",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 161,
+    "title": "Captain America and The Avengers",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 162,
+    "title": "Captain Planet and the Planeteers",
+    "publisher": "Mindscape",
+    "developer": "Chris Gray Enterprises",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 163,
+    "title": "Captain Silver",
+    "publisher": "Tokuma Shoten",
+    "developer": "Data East Corporation",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 164,
+    "title": "Captain Sky Hawk",
+    "publisher": "Milton Bradley",
+    "developer": "Rare, Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 165,
+    "title": "Carnage",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 166,
+    "title": "Casino Kid",
+    "publisher": "SOFEL",
+    "developer": "SOFEL",
+    "category": "Traditional",
+    "releaseYear": 1989
+  },
+  {
+    "id": 167,
+    "title": "Casino Kid 2",
+    "publisher": "SOFEL",
+    "developer": "SOFEL",
+    "category": "Traditional",
+    "releaseYear": 1993
+  },
+  {
+    "id": 168,
+    "title": "Castle Excellent",
+    "publisher": "NEXOFT",
+    "developer": "ASCII Corporation",
+    "category": "Puzzle",
+    "releaseYear": 1989
+  },
+  {
+    "id": 169,
+    "title": "Castle of Deceit",
+    "publisher": "Bunch Games",
+    "developer": "Bunch Games",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 170,
+    "title": "Castle of Dragon",
+    "publisher": "SETA Corporation",
+    "developer": "Athena Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 171,
+    "title": "Castlevania",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 172,
+    "title": "Castlevania 2: Simon's Quest",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 173,
+    "title": "Castlevania III: Dracula's Curse",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 174,
+    "title": "Caveman Ugh-Lympics",
+    "publisher": "Data East Corporation",
+    "developer": "Dynamix, Inc.",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 175,
+    "title": "Challenge of the Dragon",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 176,
+    "title": "Challenge Pebble Beach",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 177,
+    "title": "Challenger",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 178,
+    "title": "Championship Bowling",
+    "publisher": "Romstar Incorporated",
+    "developer": "Another",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 179,
+    "title": "Championship Lode Runner",
+    "publisher": "Hudson Soft",
+    "developer": "Brøderbund Software",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 180,
+    "title": "Championship Pool",
+    "publisher": "Mindscape",
+    "developer": "Bitmasters, Inc.",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 181,
+    "title": "Chaos World",
+    "publisher": "Natsume, Inc.",
+    "developer": "Natsume, Inc.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 182,
+    "title": "Chase H.Q.",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 183,
+    "title": "CheetahMen 2",
+    "publisher": "Active",
+    "developer": "Active",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 184,
+    "title": "Chessmaster",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Various",
+    "category": "Traditional",
+    "releaseYear": 1989
+  },
+  {
+    "id": 185,
+    "title": "Chiller",
+    "publisher": "American Game Cartridges",
+    "developer": "Exidy, Inc.",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 186,
+    "title": "Chinese Character Demo",
+    "publisher": "Public Domain",
+    "developer": "Public Domain",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 187,
+    "title": "Chip 'N Dale Rescue Rangers 2",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1994
+  },
+  {
+    "id": 188,
+    "title": "Chip'n Dale: Rescue Rangers",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 189,
+    "title": "Choplifter",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Brøderbund Software",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 190,
+    "title": "Chopper",
+    "publisher": "Public Domain",
+    "developer": "Public Domain",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 191,
+    "title": "Chubby Cherub",
+    "publisher": "Bandai",
+    "developer": "Tose",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 192,
+    "title": "Circus Caper",
+    "publisher": "Toho Company",
+    "developer": "Toho Company",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 193,
+    "title": "Circus Charlie",
+    "publisher": "Soft Pro",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 194,
+    "title": "City Connection",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Hect Co. Ltd.",
+    "category": "Racing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 195,
+    "title": "Classic Concentration",
+    "publisher": "Gametek",
+    "developer": "Softie, Inc.",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 196,
+    "title": "Cliffhanger",
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Spidersoft Limited",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 197,
+    "title": "Cloud Master",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 198,
+    "title": "Clu Clu Land",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 199,
+    "title": "Cobra Triangle",
+    "publisher": "Nintendo",
+    "developer": "Rare, Ltd.",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 200,
+    "title": "Cobra-Command",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 201,
+    "title": "Code Name: Viper",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 202,
+    "title": "Color a Dinosaur",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "FarSight Studios",
+    "category": "Educational",
+    "releaseYear": 1993
+  },
+  {
+    "id": 203,
+    "title": "Commando",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 204,
+    "title": "Conflict",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Vic Tokai, Inc.",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 205,
+    "title": "Conquest of the Crystal Palace",
+    "publisher": "Asmik Corporation",
+    "developer": "Quest",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 206,
+    "title": "Contra",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 207,
+    "title": "Contra Force",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 208,
+    "title": "Cool World",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Ocean Software Ltd.",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 209,
+    "title": "Cosmic Spacehead",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 210,
+    "title": "Cosmic Wars",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 211,
+    "title": "Cowboy Kid",
+    "publisher": "Romstar Incorporated",
+    "developer": "Visco Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 212,
+    "title": "Crackout",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 213,
+    "title": "Crash 'N the Boys: Street Challenge",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 214,
+    "title": "Crazy Climber",
+    "publisher": "Nihon Corp.",
+    "developer": "Nihon Corp.",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 215,
+    "title": "Crystal Mines",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Puzzle",
+    "releaseYear": 1989
+  },
+  {
+    "id": 216,
+    "title": "Crystalis",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 217,
+    "title": "Cyberball",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Atari",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 218,
+    "title": "Cybernoid: The Fighting Machine",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Gremlin Graphics",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 219,
+    "title": "Dai-2-ji Super Robot Taisen",
+    "publisher": "Banpresto",
+    "developer": "Winky Soft",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 220,
+    "title": "Dance Aerobics",
+    "publisher": "Nintendo",
+    "developer": "Human Entertainment",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 221,
+    "title": "Danny Sullivan's Indy Heat",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Leland",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 222,
+    "title": "Darkman",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Painting by Numbers",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 223,
+    "title": "Darkwing Duck",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 224,
+    "title": "Dash Galaxy in the Alien Asylum",
+    "publisher": "Data East Corporation",
+    "developer": "Beam Software",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 225,
+    "title": "Day Dreamin' Davey",
+    "publisher": "HAL Laboratory",
+    "developer": "Sculptured Software",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 226,
+    "title": "Days of Thunder",
+    "publisher": "Mindscape",
+    "developer": "Beam Software",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 227,
+    "title": "Dead or Alive",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 228,
+    "title": "Deadly Towers",
+    "publisher": "Brøderbund Software",
+    "developer": "Irem",
+    "category": "Role-Playing",
+    "releaseYear": 1986
+  },
+  {
+    "id": 229,
+    "title": "Death Race",
+    "publisher": "American Game Cartridges",
+    "developer": "American Game Cartridges",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 230,
+    "title": "Deathbots",
+    "publisher": "American Video Entertainment",
+    "developer": "Odyssey Software",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 231,
+    "title": "Deep Dungeon IV: Kuro no Youjutsushi",
+    "publisher": "Asmik Corporation",
+    "developer": "Humming Bird Soft",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 232,
+    "title": "Defender of the Crown",
+    "publisher": "Ultra Software",
+    "developer": "Cinemaware",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 233,
+    "title": "Defenders of Dynatron City",
+    "publisher": "JVC Musical Industries",
+    "developer": "LucasArts / LucasFilm",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 234,
+    "title": "Deja Vu: A Nightmare Comes True",
+    "publisher": "Kemco",
+    "developer": "ICOM Simulations",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 235,
+    "title": "Demon Sword",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 236,
+    "title": "Desert Commander",
+    "publisher": "Kotobuki System",
+    "developer": "Kotobuki System",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 237,
+    "title": "Destination Earthstar",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Imagineering, Inc.",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 238,
+    "title": "Destiny of an Emperor",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 239,
+    "title": "Dick Tracy",
+    "publisher": "Bandai",
+    "developer": "Realtime Associates",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 240,
+    "title": "Die Hard",
+    "publisher": "Activision",
+    "developer": "Pack-In-Video",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 241,
+    "title": "Dig Dug",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 242,
+    "title": "Dig Dug II",
+    "publisher": "Bandai",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 243,
+    "title": "Digger T. Rock: Legend of the Lost City",
+    "publisher": "Milton Bradley",
+    "developer": "Rare, Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 244,
+    "title": "Digital Devil Monogatari: Megami Tensei",
+    "publisher": "Namco Limited",
+    "developer": "Atlus Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 245,
+    "title": "Digital Devil Monogatari: Megami Tensei 2",
+    "publisher": "Namco Limited",
+    "developer": "Atlus Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 246,
+    "title": "Dirty Harry",
+    "publisher": "Mindscape",
+    "developer": "Gray Matter",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 247,
+    "title": "Dizzy: Prince of the Yolkfolk",
+    "publisher": "Codemasters",
+    "developer": "Codemasters",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 248,
+    "title": "Don Doko Don",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 249,
+    "title": "Don Doko Don 2",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 250,
+    "title": "Donkey Kong",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 251,
+    "title": "Donkey Kong 3",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 252,
+    "title": "Donkey Kong Classics",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 253,
+    "title": "Donkey Kong Junior",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1986
+  },
+  {
+    "id": 254,
+    "title": "Donkey Kong Junior Math",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 255,
+    "title": "DoorDoor",
+    "publisher": "Enix Corporation",
+    "developer": "Chunsoft",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 256,
+    "title": "Doraemon - Giga Zombie no Gyakushuu",
+    "publisher": "Epoch Co., Ltd.",
+    "developer": "Epoch Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 257,
+    "title": "Double Dare",
+    "publisher": "Gametek",
+    "developer": "Rare, Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 258,
+    "title": "Double Dragon",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Technos",
+    "category": "Fighting",
+    "releaseYear": 1988
+  },
+  {
+    "id": 259,
+    "title": "Double Dragon 3 - The Rosetta Stone",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Technos",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 260,
+    "title": "Double Dragon II - The Revenge",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Technos",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 261,
+    "title": "Double Dribble",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 262,
+    "title": "Double Moon Densetsu",
+    "publisher": "Kadokawa Shoten",
+    "developer": "NCS Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 263,
+    "title": "Double Strike",
+    "publisher": "American Video Entertainment",
+    "developer": "Sachen",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 264,
+    "title": "Downtown Nekketsu Koushinkyoku - Soreyuke Daiundoukai",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 265,
+    "title": "Downtown Special: Kunio-kun no Jidaigeki da yo - Zenin Shugo",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 266,
+    "title": "Dr. Chaos",
+    "publisher": "Pony Canyon",
+    "developer": "Pony Canyon",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 267,
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "publisher": "Bandai",
+    "developer": "Advance Communication Company",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 268,
+    "title": "Dr. Mario",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 269,
+    "title": "Dragon Buster",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Fighting",
+    "releaseYear": 1987
+  },
+  {
+    "id": 270,
+    "title": "Dragon Buster II: Yami no Fuuin",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 271,
+    "title": "Dragon Fighter",
+    "publisher": "SOFEL",
+    "developer": "Natsume, Inc.",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 272,
+    "title": "Dragon Power",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Fighting",
+    "releaseYear": 1988
+  },
+  {
+    "id": 273,
+    "title": "Dragon Spirit",
+    "publisher": "Bandai",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 274,
+    "title": "Dragon Strike",
+    "publisher": "Pony Canyon",
+    "developer": "Westwood Associates",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 275,
+    "title": "Dragon Warrior",
+    "publisher": "Nintendo",
+    "developer": "Enix Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 276,
+    "title": "Dragon Warrior 2",
+    "publisher": "Enix Corporation",
+    "developer": "Enix Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 277,
+    "title": "Dragon Warrior 3",
+    "publisher": "Enix Corporation",
+    "developer": "Enix Corporation",
+    "category": "Role-Playing",
+    "releaseYear": null
+  },
+  {
+    "id": 278,
+    "title": "Dragon Warrior 4",
+    "publisher": "Enix Corporation",
+    "developer": "Chunsoft",
+    "category": "Role-Playing",
+    "releaseYear": null
+  },
+  {
+    "id": 279,
+    "title": "Dragonball 3: Gokuuden",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 280,
+    "title": "Dragonball Z Gaiden: Saiyajin Zetsumetsu Keikaku",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 281,
+    "title": "Dragonball Z II: Gekigami Freezer",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 282,
+    "title": "Dragonball Z III: Ressen Jinzou Ningen",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 283,
+    "title": "Dragonball Z: Kyoushuu! Saiyajin",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 284,
+    "title": "Dragonball: Daimaou Fukkatsu",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 285,
+    "title": "Dragon's Lair",
+    "publisher": "CSG Imagesoft",
+    "developer": "Motivetime Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 286,
+    "title": "Dragons of Flame",
+    "publisher": "Pony Canyon",
+    "developer": "U.S. Gold Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 287,
+    "title": "Dropzone",
+    "publisher": "Mindscape",
+    "developer": "Arena Graphics",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 288,
+    "title": "Duck Hunt",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1985
+  },
+  {
+    "id": 289,
+    "title": "Duck Tales",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 290,
+    "title": "Duck Tales 2",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 291,
+    "title": "Dudes with Attitude",
+    "publisher": "American Video Entertainment",
+    "developer": "American Video Entertainment",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 292,
+    "title": "Dungeon Magic: Sword of the Elements",
+    "publisher": "Taito Corporation",
+    "developer": "Natsume, Inc.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 293,
+    "title": "Dusty Diamond's All-Star Softball",
+    "publisher": "Brøderbund Software",
+    "developer": "Tonkin House",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 294,
+    "title": "Dynamite Bowl",
+    "publisher": "Toshiba-EMI Ltd.",
+    "developer": "Softvision",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 295,
+    "title": "Dynowarz: Destruction of Spondylus",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 296,
+    "title": "Earthbound",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 297,
+    "title": "Egypt",
+    "publisher": "Human Entertainment",
+    "developer": "Human Entertainment",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 298,
+    "title": "Elevator Action",
+    "publisher": "Nintendo",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 299,
+    "title": "Eliminator Boat Duel",
+    "publisher": "Electro-Brain",
+    "developer": "Radioactive Software",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 300,
+    "title": "Empire City: 1931",
+    "publisher": "Toshiba-EMI Ltd.",
+    "developer": "Seibu Kaihatsu",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 301,
+    "title": "Erika to Satoru no Yume Bouken",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Adventure",
+    "releaseYear": 1987
+  },
+  {
+    "id": 302,
+    "title": "Erunaaku No Zaihou",
+    "publisher": "Towa Chiki",
+    "developer": "Towa Chiki",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 303,
+    "title": "Evil Dead",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 304,
+    "title": "Excite Bike",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1985
+  },
+  {
+    "id": 305,
+    "title": "Exerion",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 306,
+    "title": "Exodus: Journey to the Promised Land",
+    "publisher": "Wisdom Tree",
+    "developer": "Wisdom Tree",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 307,
+    "title": "F-117A Stealth Fighter",
+    "publisher": "MicroProse Ltd.",
+    "developer": "MicroProse Ltd.",
+    "category": "Simulation",
+    "releaseYear": 1992
+  },
+  {
+    "id": 308,
+    "title": "F-15 City War",
+    "publisher": "American Video Entertainment",
+    "developer": "American Video Entertainment",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 309,
+    "title": "F-15 Strike Eagle",
+    "publisher": "MicroProse Ltd.",
+    "developer": "MicroProse Ltd.",
+    "category": "Simulation",
+    "releaseYear": 1992
+  },
+  {
+    "id": 310,
+    "title": "Famicom Wars",
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "category": "Strategy",
+    "releaseYear": 1988
+  },
+  {
+    "id": 311,
+    "title": "Family Boxing",
+    "publisher": "Namco Limited",
+    "developer": "Wood Place",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 312,
+    "title": "Family Circuit",
+    "publisher": "Namco Limited",
+    "developer": "Game Studio",
+    "category": "Racing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 313,
+    "title": "Family Feud",
+    "publisher": "Gametek",
+    "developer": "Beam Software",
+    "category": "Puzzle",
+    "releaseYear": 1987
+  },
+  {
+    "id": 314,
+    "title": "Fantastic Adventures of Dizzy",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Adventure",
+    "releaseYear": 1993
+  },
+  {
+    "id": 315,
+    "title": "Fantasy Zone",
+    "publisher": "Tengen Ltd.",
+    "developer": "Sega",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 316,
+    "title": "Fantasy Zone 2",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Sega",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 317,
+    "title": "Faria: A World of Mystery and Danger",
+    "publisher": "NEXOFT",
+    "developer": "Game Arts",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 318,
+    "title": "Faxanadu",
+    "publisher": "Hudson Soft",
+    "developer": "Nihon Corp.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 319,
+    "title": "Felix the Cat",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 320,
+    "title": "Feng Shen Bang",
+    "publisher": "C&E",
+    "developer": "C&E",
+    "category": "Role-Playing",
+    "releaseYear": 1995
+  },
+  {
+    "id": 321,
+    "title": "Fester's Quest",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 322,
+    "title": "Fighting Road",
+    "publisher": "Toei Animation",
+    "developer": "Toei Animation",
+    "category": "Fighting",
+    "releaseYear": 1988
+  },
+  {
+    "id": 323,
+    "title": "Final Fantasy",
+    "publisher": "Nintendo",
+    "developer": "Square Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 324,
+    "title": "Final Fantasy 2",
+    "publisher": "Square Co., Ltd.",
+    "developer": "Square Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 325,
+    "title": "Final Fantasy 3",
+    "publisher": "Square Co., Ltd.",
+    "developer": "Square Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 326,
+    "title": "Final Fantasy 7",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 327,
+    "title": "Fire and Ice",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1993
+  },
+  {
+    "id": 328,
+    "title": "Fire Emblem",
+    "publisher": "Nintendo",
+    "developer": "Intelligent Systems",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 329,
+    "title": "Fire Emblem Gaiden",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 330,
+    "title": "Fire Hawk",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 331,
+    "title": "Fisher-Price: Firehouse Rescue",
+    "publisher": "IJE",
+    "developer": "Imagineering, Inc.",
+    "category": "Racing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 332,
+    "title": "Fisher-Price: I Can Remember",
+    "publisher": "IJE",
+    "developer": "Beam Software",
+    "category": "Educational",
+    "releaseYear": 1990
+  },
+  {
+    "id": 333,
+    "title": "Fisher-Price: Perfect Fit",
+    "publisher": "IJE",
+    "developer": "Beam Software",
+    "category": "Educational",
+    "releaseYear": 1990
+  },
+  {
+    "id": 334,
+    "title": "Fist Of The North Star",
+    "publisher": "Taxan",
+    "developer": "Shouei System",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 335,
+    "title": "Flappy",
+    "publisher": "dB-SOFT",
+    "developer": "dB-SOFT",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 336,
+    "title": "Flight of the Intruder",
+    "publisher": "Mindscape",
+    "developer": "Imagineering, Inc.",
+    "category": "Simulation",
+    "releaseYear": 1991
+  },
+  {
+    "id": 337,
+    "title": "Flintstones: The Rescue of Dino & Hoppy",
+    "publisher": "Nintendo",
+    "developer": "Taito Corporation",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 338,
+    "title": "Flintstones: The Surprise at Dinosaur Peak",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1994
+  },
+  {
+    "id": 339,
+    "title": "Flying Dragon: The Secret Scroll",
+    "publisher": "Culture Brain",
+    "developer": "Culture Brain",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 340,
+    "title": "Flying Warriors",
+    "publisher": "Culture Brain",
+    "developer": "Culture Brain",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 341,
+    "title": "Formation Z",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Hect Co. Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 342,
+    "title": "Formula 1 Sensation",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Racing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 343,
+    "title": "Formula 1: Built to Win",
+    "publisher": "SETA Corporation",
+    "developer": "Winky Soft",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 344,
+    "title": "Frankenstein: The Monster Returns",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 345,
+    "title": "Freedom Force",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 346,
+    "title": "Friday the 13th",
+    "publisher": "LJN, Ltd.",
+    "developer": "LJN, Ltd.",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 347,
+    "title": "From the Legend of Balubalouk: Aigiina no Yogen",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Vic Tokai, Inc.",
+    "category": "Adventure",
+    "releaseYear": 1986
+  },
+  {
+    "id": 348,
+    "title": "Fushigi no Umi no Nadia",
+    "publisher": "Toho Company",
+    "developer": "Toho Company",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 349,
+    "title": "Futebol",
+    "publisher": "Milmar Indústria e Comércio",
+    "developer": "C&E",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 350,
+    "title": "Fuuun Shaolin Kyo",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1987
+  },
+  {
+    "id": 351,
+    "title": "Fuuun Shaolin Kyo: Ankoku no Maou",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1988
+  },
+  {
+    "id": 352,
+    "title": "G.I. Joe: A Real American Hero",
+    "publisher": "Taxan",
+    "developer": "KID Corp.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 353,
+    "title": "G.I. Joe: The Atlantis Factor",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "KID Corp.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 354,
+    "title": "Galactic Crusader",
+    "publisher": "Bunch Games",
+    "developer": "Sachen",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 355,
+    "title": "Galaga",
+    "publisher": "Bandai",
+    "developer": "Namco Limited",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 356,
+    "title": "Galaxian",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Shooter",
+    "releaseYear": 1984
+  },
+  {
+    "id": 357,
+    "title": "Galaxy 5000: Racing in the 51st Century",
+    "publisher": "Activision",
+    "developer": "Activision",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 358,
+    "title": "Ganbare Goemon 2",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 359,
+    "title": "Ganbare Goemon Gaiden 2: Tenka no Zaihou",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 360,
+    "title": "Ganbare Goemon Gaiden: Kieta Ougon Kiseru",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 361,
+    "title": "Ganbare Goemon! Karakuri Douchuu",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 362,
+    "title": "Gargoyle's Quest II: The Demon Darkness",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1992
+  },
+  {
+    "id": 363,
+    "title": "Garry Kitchen's Battletank",
+    "publisher": "Absolute Entertainment",
+    "developer": "Absolute Entertainment",
+    "category": "Simulation",
+    "releaseYear": 1990
+  },
+  {
+    "id": 364,
+    "title": "Gauntlet",
+    "publisher": "Tengen Ltd.",
+    "developer": "Hack",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 365,
+    "title": "Gauntlet II",
+    "publisher": "Mindscape",
+    "developer": "Atari",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 366,
+    "title": "Gemfire",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 367,
+    "title": "Genghis Khan",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1990
+  },
+  {
+    "id": 368,
+    "title": "George Foreman's KO Boxing",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Beam Software",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 369,
+    "title": "Getsufuu Maden",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 370,
+    "title": "Ghostbusters",
+    "publisher": "Activision",
+    "developer": "Activision",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 371,
+    "title": "Ghostbusters 2",
+    "publisher": "Activision",
+    "developer": "Imagineering, Inc.",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 372,
+    "title": "Ghosts'n Goblins",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1986
+  },
+  {
+    "id": 373,
+    "title": "Ghoul School",
+    "publisher": "Electro-Brain",
+    "developer": "Imagineering, Inc.",
+    "category": "Fighting",
+    "releaseYear": 1992
+  },
+  {
+    "id": 374,
+    "title": "Goal",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 375,
+    "title": "Goal! Two",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 376,
+    "title": "Godzilla 2: War of the Monsters",
+    "publisher": "Toho Company",
+    "developer": "Toho Company",
+    "category": "Strategy",
+    "releaseYear": 1991
+  },
+  {
+    "id": 377,
+    "title": "Godzilla: Monster of Monsters",
+    "publisher": "Toho Company",
+    "developer": "Compile",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 378,
+    "title": "Gold Medal Challenge '92",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 379,
+    "title": "Golf",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1985
+  },
+  {
+    "id": 380,
+    "title": "Golf Grand Slam",
+    "publisher": "Atlus Co., Ltd.",
+    "developer": "Atlus Co., Ltd.",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 381,
+    "title": "Golgo 13: Top Secret Episode",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Vic Tokai, Inc.",
+    "category": "Adventure",
+    "releaseYear": 1988
+  },
+  {
+    "id": 382,
+    "title": "Goonies 2",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Fighting",
+    "releaseYear": 1987
+  },
+  {
+    "id": 383,
+    "title": "Goonies, The",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 384,
+    "title": "Gorby's Pipeline",
+    "publisher": "Tokuma Shoten",
+    "developer": "Compile",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 385,
+    "title": "Gotcha! The Sport",
+    "publisher": "LJN, Ltd.",
+    "developer": "LJN, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 386,
+    "title": "Gradius",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 387,
+    "title": "Gradius II - GOFER no Yabou",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 388,
+    "title": "Grave Digger",
+    "publisher": "Public Domain",
+    "developer": "Public Domain",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 389,
+    "title": "Great Waldo Search",
+    "publisher": "THQ, Inc.",
+    "developer": "Radiance Software",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 390,
+    "title": "Gremlins 2: The New Batch",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 391,
+    "title": "Guardian Legend",
+    "publisher": "Brøderbund Software",
+    "developer": "Compile",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 392,
+    "title": "Guerrilla War",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 393,
+    "title": "Gumshoe",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 394,
+    "title": "Gun.Smoke",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 395,
+    "title": "Gun-Nac",
+    "publisher": "NEXOFT",
+    "developer": "Compile",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 396,
+    "title": "Gyrodine",
+    "publisher": "Taito Corporation",
+    "developer": "Crux",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 397,
+    "title": "Gyromite",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 398,
+    "title": "Gyruss",
+    "publisher": "Ultra Software",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 399,
+    "title": "Halley Wars",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 400,
+    "title": "Hammerin' Harry",
+    "publisher": "Irem",
+    "developer": "Irem",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 401,
+    "title": "Harlem Globetrotters",
+    "publisher": "Gametek",
+    "developer": "Softie, Inc.",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 402,
+    "title": "Hatris",
+    "publisher": "Bullet-Proof Software",
+    "developer": "Bullet-Proof Software",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 403,
+    "title": "Heavy Barrel",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 404,
+    "title": "Heavy Shreddin'",
+    "publisher": "Parker Brothers",
+    "developer": "Imagineering, Inc.",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 405,
+    "title": "Herakles no Eikou 2: Titan no Metsubou",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 406,
+    "title": "Herakles no Eikou: Toujin Makyou Den",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 407,
+    "title": "Heroes of the Lance",
+    "publisher": "Strategic Simulations",
+    "developer": "U.S. Gold Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 408,
+    "title": "HiGeMaru",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1987
+  },
+  {
+    "id": 409,
+    "title": "High Speed",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Rare, Ltd.",
+    "category": "Traditional",
+    "releaseYear": 1991
+  },
+  {
+    "id": 410,
+    "title": "Hissatsu Doujou Yaburi",
+    "publisher": "Sigma Enterprises",
+    "developer": "Sigma Enterprises",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 411,
+    "title": "Hogan's Alley",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 412,
+    "title": "Hokuto no Ken",
+    "publisher": "Toei Animation",
+    "developer": "Shouei System",
+    "category": "Fighting",
+    "releaseYear": 1986
+  },
+  {
+    "id": 413,
+    "title": "Hokuto no Ken 3: Shinseiki Souzou Seiken Retsuden",
+    "publisher": "Toei Animation",
+    "developer": "Shouei System",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 414,
+    "title": "Hokuto no Ken 4: Shichisei Haken Den: Hokuto Shinken no Kanata e",
+    "publisher": "Toei Animation",
+    "developer": "Shouei System",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 415,
+    "title": "Hole in One Professional",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 416,
+    "title": "Hollywood Squares",
+    "publisher": "Gametek",
+    "developer": "IJE",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 417,
+    "title": "Home Alone",
+    "publisher": "THQ, Inc.",
+    "developer": "Bethesda Softworks",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 418,
+    "title": "Home Alone 2: Lost in New York",
+    "publisher": "THQ, Inc.",
+    "developer": "Imagineering, Inc.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 419,
+    "title": "Hook",
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Painting by Numbers",
+    "category": "Fighting",
+    "releaseYear": 1992
+  },
+  {
+    "id": 420,
+    "title": "Hoops",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 421,
+    "title": "Hoshi wo Miru Hito",
+    "publisher": "Hot-B Co., Ltd.",
+    "developer": "Hot-B Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 422,
+    "title": "Hostage: Rescue Mission",
+    "publisher": "Kemco",
+    "developer": "Infogrames",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 423,
+    "title": "Hot Slot",
+    "publisher": "Panesian",
+    "developer": "Hacker International",
+    "category": "Adult",
+    "releaseYear": 1991
+  },
+  {
+    "id": 424,
+    "title": "Hudson Hawk",
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Ocean Software Ltd.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 425,
+    "title": "Hunt for Red October",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Beam Software",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 426,
+    "title": "Hydlide",
+    "publisher": "Pony Canyon",
+    "developer": "T&E Soft",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 427,
+    "title": "Hydlide 3: Yami kara no Houmonsha",
+    "publisher": "Namco Limited",
+    "developer": "T&E Soft",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 428,
+    "title": "Ice Climber",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 429,
+    "title": "Ice Hockey",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 430,
+    "title": "Ikari III - The Rescue",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 431,
+    "title": "Ikari Warriors",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 432,
+    "title": "Ikari Warriors 2",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 433,
+    "title": "Ike Ike! Nekketsu Hockey-bu: Subete Koronde Dairantou",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 434,
+    "title": "Image Fight",
+    "publisher": "Irem",
+    "developer": "Irem",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 435,
+    "title": "Immortal",
+    "publisher": "Electronic Arts",
+    "developer": "Sandcastle",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 436,
+    "title": "Impossible Mission 2",
+    "publisher": "American Video Entertainment",
+    "developer": "Novotrade International",
+    "category": "Puzzle",
+    "releaseYear": 1989
+  },
+  {
+    "id": 437,
+    "title": "Indiana Jones and the Last Crusade",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 438,
+    "title": "Indiana Jones and the Temple of Doom",
+    "publisher": "Tengen Ltd.",
+    "developer": "Atari",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 439,
+    "title": "Infiltrator 2",
+    "publisher": "Nintendo",
+    "developer": "Chris Gray Enterprises",
+    "category": "Simulation",
+    "releaseYear": 1989
+  },
+  {
+    "id": 440,
+    "title": "Initial D",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 441,
+    "title": "Insector-X",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 442,
+    "title": "Iron Tank: The Invasion of Normandy",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 443,
+    "title": "Ironman Ivan Stewart's Super Off-Road",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Leland",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 444,
+    "title": "Ironsword: Wizards & Warriors 2",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Zippo Games",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 445,
+    "title": "Isolated Warrior",
+    "publisher": "NTVIC",
+    "developer": "Vap Inc.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 446,
+    "title": "Jack Nicklaus' Greatest 18 Holes of Major Championship Golf",
+    "publisher": "Konami",
+    "developer": "Sculptured Software",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 447,
+    "title": "Jackal",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Racing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 448,
+    "title": "Jackie Chan's Action Kung Fu",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 449,
+    "title": "James Bond Jr.",
+    "publisher": "THQ, Inc.",
+    "developer": "Eurocom Entertainment Software",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 450,
+    "title": "Jaws",
+    "publisher": "LJN, Ltd.",
+    "developer": "Westone Co., Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1987
+  },
+  {
+    "id": 451,
+    "title": "Jeopardy",
+    "publisher": "Gametek",
+    "developer": "Rare, Ltd.",
+    "category": "Educational",
+    "releaseYear": 1987
+  },
+  {
+    "id": 452,
+    "title": "Jeopardy! 25th Anniversary Edition",
+    "publisher": "Gametek",
+    "developer": "Rare, Ltd.",
+    "category": "Educational",
+    "releaseYear": 1990
+  },
+  {
+    "id": 453,
+    "title": "Jeopardy! Junior Edition",
+    "publisher": "Gametek",
+    "developer": "Rare, Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 454,
+    "title": "Jetsons: Cogswell's Caper",
+    "publisher": "Taito Corporation",
+    "developer": "Natsume, Inc.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 455,
+    "title": "Jim Henson's Muppet Adventure: Chaos at the Carnival",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Mind’s Eye Technology",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 456,
+    "title": "JJ - Tobidase Daisakusen Part 2",
+    "publisher": "Square Co., Ltd.",
+    "developer": "Square Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 457,
+    "title": "Joe & Mac: Caveman Ninja",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 458,
+    "title": "John Elway's Quarterback",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Rare, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 459,
+    "title": "Jordan vs. Bird: One-on-One",
+    "publisher": "Milton Bradley",
+    "developer": "Electronic Arts",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 460,
+    "title": "Joshua & the Battle of Jericho",
+    "publisher": "Wisdom Tree",
+    "developer": "Wisdom Tree",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 461,
+    "title": "Journey to Silius",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 462,
+    "title": "Joust",
+    "publisher": "HAL Laboratory",
+    "developer": "Williams, Inc.",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 463,
+    "title": "Joy Mecha Fight",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Fighting",
+    "releaseYear": 1993
+  },
+  {
+    "id": 464,
+    "title": "Joystick Demo",
+    "publisher": "Public Domain",
+    "developer": "Public Domain",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 465,
+    "title": "Jurassic Park",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Ocean Software Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1993
+  },
+  {
+    "id": 466,
+    "title": "Just Breed",
+    "publisher": "Enix Corporation",
+    "developer": "Enix Corporation",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 467,
+    "title": "Kabuki: Quantum Fighter",
+    "publisher": "HAL Laboratory",
+    "developer": "Human Entertainment",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 468,
+    "title": "Kaguya-hime Densetsu",
+    "publisher": "Marvelous Interactive",
+    "developer": "Marvelous Interactive",
+    "category": "Adventure",
+    "releaseYear": 1988
+  },
+  {
+    "id": 469,
+    "title": "Karate Champ",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Fighting",
+    "releaseYear": 1986
+  },
+  {
+    "id": 470,
+    "title": "Karate Kid",
+    "publisher": "LJN, Ltd.",
+    "developer": "LJN, Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1987
+  },
+  {
+    "id": 471,
+    "title": "Karateka",
+    "publisher": "Soft Pro",
+    "developer": "Brøderbund Software",
+    "category": "Fighting",
+    "releaseYear": 1984
+  },
+  {
+    "id": 472,
+    "title": "Karnov",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 473,
+    "title": "Kick Master",
+    "publisher": "Taito Corporation",
+    "developer": "KID Corp.",
+    "category": "Fighting",
+    "releaseYear": 1992
+  },
+  {
+    "id": 474,
+    "title": "Kick Off",
+    "publisher": "Imagineer",
+    "developer": "Anco Software",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 475,
+    "title": "Kickle Cubicle",
+    "publisher": "Irem",
+    "developer": "Irem",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 476,
+    "title": "Kid Dracula",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 477,
+    "title": "Kid Icarus",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 478,
+    "title": "Kid Klown in Night Mayor World",
+    "publisher": "Kemco",
+    "developer": "Kemco",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 479,
+    "title": "Kid Kool and the Quest for the Seven Wonder Herbs",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Vic Tokai, Inc.",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 480,
+    "title": "Kid Niki - Radical Ninja",
+    "publisher": "Data East Corporation",
+    "developer": "Irem",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 481,
+    "title": "Kiki Kaikai: Dotou-hen",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 482,
+    "title": "King Neptune's Adventure",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 483,
+    "title": "King of Kings: The Early Years",
+    "publisher": "Wisdom Tree",
+    "developer": "Wisdom Tree",
+    "category": "Various",
+    "releaseYear": 1991
+  },
+  {
+    "id": 484,
+    "title": "King's Knight",
+    "publisher": "Square Co., Ltd.",
+    "developer": "Square Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 485,
+    "title": "Kings of the Beach",
+    "publisher": "Ultra Games",
+    "developer": "Electronic Arts",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 486,
+    "title": "King's Quest V: Absence Makes the Heart Go Yonder",
+    "publisher": "Konami",
+    "developer": "Sierra On-Line",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 487,
+    "title": "Kirby's Adventure",
+    "publisher": "Nintendo",
+    "developer": "HAL Laboratory",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 488,
+    "title": "Klax",
+    "publisher": "Tengen Ltd.",
+    "developer": "Atari",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 489,
+    "title": "Knight Lore",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Ashby Computers and Graphics",
+    "category": "Puzzle",
+    "releaseYear": 1986
+  },
+  {
+    "id": 490,
+    "title": "Knight Rider",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Pack-In-Video",
+    "category": "Racing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 491,
+    "title": "Knightmare 2: The Maze of Galious",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Adventure",
+    "releaseYear": 1987
+  },
+  {
+    "id": 492,
+    "title": "Konami Hyper Soccer",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 493,
+    "title": "Kouryu Densetsu Villgust Gaiden",
+    "publisher": "Angel Studios",
+    "developer": "Plex",
+    "category": "Role-Playing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 494,
+    "title": "Krazy Kreatures",
+    "publisher": "American Video Entertainment",
+    "developer": "American Video Entertainment",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 495,
+    "title": "Krion Conquest",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Vic Tokai, Inc.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 496,
+    "title": "Krusty's Fun House",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Acclaim Entertainment",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 497,
+    "title": "Kung-Fu Heroes",
+    "publisher": "Culture Brain",
+    "developer": "Micro Academy",
+    "category": "Fighting",
+    "releaseYear": 1988
+  },
+  {
+    "id": 498,
+    "title": "Kung-Fu Master",
+    "publisher": "Nintendo",
+    "developer": "Irem",
+    "category": "Fighting",
+    "releaseYear": 1985
+  },
+  {
+    "id": 499,
+    "title": "Kunio-kun no Nekketsu Soccer League",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 500,
+    "title": "LaGrange Point",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 501,
+    "title": "Laser Invasion",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 502,
+    "title": "Last Action Hero",
+    "publisher": "Sony Computer Entertainment",
+    "developer": "Bits Studios Ltd.",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 503,
+    "title": "Last Armageddon",
+    "publisher": "Yutaka",
+    "developer": "BrainGrey",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 504,
+    "title": "Last Ninja 2",
+    "publisher": "Jaleco Ltd.",
+    "developer": "System 3 Software",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 505,
+    "title": "Last Starfighter",
+    "publisher": "Mindscape",
+    "developer": "Graftgold Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 506,
+    "title": "Law of the West",
+    "publisher": "Accolade",
+    "developer": "Pony Canyon",
+    "category": "Adventure",
+    "releaseYear": 1987
+  },
+  {
+    "id": 507,
+    "title": "Lee Trevino's Fighting Golf",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 508,
+    "title": "Legacy of the Wizard",
+    "publisher": "Brøderbund Software",
+    "developer": "Quintet Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 509,
+    "title": "Legend of Kage, The",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 510,
+    "title": "Legend of the Ghost Lion",
+    "publisher": "Kotobuki System",
+    "developer": "Kotobuki System",
+    "category": "Role-Playing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 511,
+    "title": "Legend of Zelda",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 512,
+    "title": "Legendary Wings",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 513,
+    "title": "Legends of the Diamond",
+    "publisher": "Bandai",
+    "developer": "Tose",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 514,
+    "title": "Lemmings",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "DMA Design",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 515,
+    "title": "L'Empereur",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 516,
+    "title": "Lethal Weapon",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Eurocom Entertainment Software",
+    "category": "Fighting",
+    "releaseYear": 1992
+  },
+  {
+    "id": 517,
+    "title": "Lifeforce",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 518,
+    "title": "Little League Baseball Championship Series",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 519,
+    "title": "Little Mermaid",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 520,
+    "title": "Little Nemo: The Dream Master",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 521,
+    "title": "Little Ninja Brothers",
+    "publisher": "Culture Brain",
+    "developer": "Culture Brain",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 522,
+    "title": "Little Samson",
+    "publisher": "Taito Corporation",
+    "developer": "Takeru",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 523,
+    "title": "Lode Runner",
+    "publisher": "Brøderbund Software",
+    "developer": "Brøderbund Software",
+    "category": "Puzzle",
+    "releaseYear": 1987
+  },
+  {
+    "id": 524,
+    "title": "Lone Ranger",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 525,
+    "title": "Loopz",
+    "publisher": "Mindscape",
+    "developer": "Audiogenic",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 526,
+    "title": "Lot Lot",
+    "publisher": "Irem",
+    "developer": "Tokuma Shoten",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 527,
+    "title": "Low G Man",
+    "publisher": "Taxan",
+    "developer": "KID Corp.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 528,
+    "title": "Lunar Pool",
+    "publisher": "Pony Canyon",
+    "developer": "Blue Pony",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 529,
+    "title": "M.C. Kids",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "Virgin Games, Ltd.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 530,
+    "title": "M.U.S.C.L.E: Tag Team Match",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Sports",
+    "releaseYear": 1986
+  },
+  {
+    "id": 531,
+    "title": "Mach Rider",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Racing",
+    "releaseYear": 1985
+  },
+  {
+    "id": 532,
+    "title": "Mad Max",
+    "publisher": "Mindscape",
+    "developer": "Mindscape",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 533,
+    "title": "Mafat Conspiracy",
+    "publisher": "Vic Tokai, Inc.",
+    "developer": "Vic Tokai, Inc.",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 534,
+    "title": "Mag Max",
+    "publisher": "Pony Canyon",
+    "developer": "Nihon Corp.",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 535,
+    "title": "Magic Darts",
+    "publisher": "Romstar Incorporated",
+    "developer": "Romstar Incorporated",
+    "category": "Traditional",
+    "releaseYear": 1991
+  },
+  {
+    "id": 536,
+    "title": "Magic Johnson's Fast Break",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Software Creations",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 537,
+    "title": "Magic of Scheherazade",
+    "publisher": "Culture Brain",
+    "developer": "Culture Brain",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 538,
+    "title": "Magician",
+    "publisher": "Taxan",
+    "developer": "Eurocom Entertainment Software",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 539,
+    "title": "Maniac Mansion",
+    "publisher": "Jaleco Ltd.",
+    "developer": "LucasArts / LucasFilm",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 540,
+    "title": "Mappy",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1984
+  },
+  {
+    "id": 541,
+    "title": "Mappy Land",
+    "publisher": "Taxan",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 542,
+    "title": "Marble Madness",
+    "publisher": "Milton Bradley",
+    "developer": "Atari",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 543,
+    "title": "Mario Bros.",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1986
+  },
+  {
+    "id": 544,
+    "title": "Mario is Missing",
+    "publisher": "Software Toolworks, Inc.",
+    "developer": "Radical Entertainment",
+    "category": "Educational",
+    "releaseYear": 1993
+  },
+  {
+    "id": 545,
+    "title": "Mario's Time Machine",
+    "publisher": "Software Toolworks, Inc.",
+    "developer": "Radical Entertainment",
+    "category": "Educational",
+    "releaseYear": 1994
+  },
+  {
+    "id": 546,
+    "title": "Master Chu And The Drunkard Hu",
+    "publisher": "Color Dreams",
+    "developer": "Joy Van",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 547,
+    "title": "Matrix",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 548,
+    "title": "Mechanized Attack",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 549,
+    "title": "Mega Man",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 550,
+    "title": "Mega Man 2",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Various",
+    "releaseYear": 1989
+  },
+  {
+    "id": 551,
+    "title": "Mega Man 4",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Various",
+    "releaseYear": 1992
+  },
+  {
+    "id": 552,
+    "title": "Mega Man 5",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Various",
+    "releaseYear": 1992
+  },
+  {
+    "id": 553,
+    "title": "Mega Man 6",
+    "publisher": "Nintendo",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Various",
+    "releaseYear": 1994
+  },
+  {
+    "id": 554,
+    "title": "Mega Man III",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": null
+  },
+  {
+    "id": 555,
+    "title": "Menace Beach",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 556,
+    "title": "Mendel Palace",
+    "publisher": "Hudson Soft",
+    "developer": "Game Freak, Inc.",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 557,
+    "title": "Mermaids of Atlantis: A Riddle of a Magic Bubble",
+    "publisher": "American Video Entertainment",
+    "developer": "C&E",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 558,
+    "title": "Metal Fighter",
+    "publisher": "Color Dreams",
+    "developer": "Joy Van",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 559,
+    "title": "Metal Gear",
+    "publisher": "Ultra Software",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 560,
+    "title": "Metal Max",
+    "publisher": "Data East Corporation",
+    "developer": "Crea-Tech",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 561,
+    "title": "Metal Storm",
+    "publisher": "Irem",
+    "developer": "Tamtex",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 562,
+    "title": "MetalMech: Man & Machine",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Sculptured Software",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 563,
+    "title": "Metroid",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 564,
+    "title": "Mickey Mousecapade",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 565,
+    "title": "Mickey's Adventures in Numberland",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Beam Software",
+    "category": "Educational",
+    "releaseYear": 1994
+  },
+  {
+    "id": 566,
+    "title": "Mickey's Safari In Letterland",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Beam Software",
+    "category": "Educational",
+    "releaseYear": 1993
+  },
+  {
+    "id": 567,
+    "title": "Micro Machines",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 568,
+    "title": "Mig-29 Soviet Fighter",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 569,
+    "title": "Might and Magic: Secret of the Inner Sanctum",
+    "publisher": "Sammy Corporation",
+    "developer": "New World Computing",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 570,
+    "title": "Mighty Bombjack",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 571,
+    "title": "Mighty Final Fight",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1993
+  },
+  {
+    "id": 572,
+    "title": "Mike Tyson's Punch-Out!!",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 573,
+    "title": "Millipede",
+    "publisher": "HAL Laboratory",
+    "developer": "Atari",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 574,
+    "title": "Milon's Secret Castle",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 575,
+    "title": "Mini-Putt",
+    "publisher": "A Wave",
+    "developer": "Artech Digital Productions",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 576,
+    "title": "Miracle Piano Teaching System",
+    "publisher": "Software Toolworks, Inc.",
+    "developer": "Various",
+    "category": "Educational",
+    "releaseYear": 1990
+  },
+  {
+    "id": 577,
+    "title": "Miracle Warriors: Seal of the Dark Lord",
+    "publisher": "ASCII Corporation",
+    "developer": "KGD Software Products",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 578,
+    "title": "Mission Cobra",
+    "publisher": "Bunch Games",
+    "developer": "Sachen",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 579,
+    "title": "Mission Impossible",
+    "publisher": "Ultra Games",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 580,
+    "title": "Mitsume ga Tooru",
+    "publisher": "Tomy",
+    "developer": "Natsume, Inc.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 581,
+    "title": "Moai Kun",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 582,
+    "title": "Mobile Suit Z Gundam: Hot Scramble",
+    "publisher": "Bandai",
+    "developer": "Game Studio",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 583,
+    "title": "Momotarou Densetsu",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 584,
+    "title": "Momotarou Densetsu Gaiden",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Role-Playing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 585,
+    "title": "Momotarou Dentetsu",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Traditional",
+    "releaseYear": 1988
+  },
+  {
+    "id": 586,
+    "title": "Monopoly",
+    "publisher": "Parker Brothers",
+    "developer": "Sculptured Software",
+    "category": "Traditional",
+    "releaseYear": 1991
+  },
+  {
+    "id": 587,
+    "title": "Monster Party",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 588,
+    "title": "Monster Truck Rally",
+    "publisher": "INTV",
+    "developer": "Realtime Associates",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 589,
+    "title": "Moon Ranger",
+    "publisher": "Bunch Games",
+    "developer": "Odyssey Software",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 590,
+    "title": "Mosquito",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 591,
+    "title": "Mother",
+    "publisher": "Nintendo",
+    "developer": "Ape",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 592,
+    "title": "Motor City Patrol",
+    "publisher": "Matchbox International",
+    "developer": "Source Research & Development",
+    "category": "Racing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 593,
+    "title": "Mouryou Senki Madara",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 594,
+    "title": "Mr. Gimmick",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Authentic Entertainment",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 595,
+    "title": "Ms. Pac-Man",
+    "publisher": "Namco Limited",
+    "developer": "General Computer Corporation",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 596,
+    "title": "MULE",
+    "publisher": "Mindscape",
+    "developer": "Ozark Softscape",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 597,
+    "title": "Murder on the Mississippi",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Activision",
+    "category": "Puzzle",
+    "releaseYear": 1986
+  },
+  {
+    "id": 598,
+    "title": "Musashi no Bouken",
+    "publisher": "Sigma Enterprises",
+    "developer": "Sigma Enterprises",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 599,
+    "title": "Mutant Virus",
+    "publisher": "American Softworks Corporation",
+    "developer": "American Softworks Corporation",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 600,
+    "title": "Mystery Quest",
+    "publisher": "Taxan",
+    "developer": "Carry Lab.",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 601,
+    "title": "Myth: History in the Making",
+    "publisher": "Mindscape",
+    "developer": "System 3 Software",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 602,
+    "title": "Narc",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Williams, Inc.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 603,
+    "title": "Nekketsu Kakuto Densetsu",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Fighting",
+    "releaseYear": 1992
+  },
+  {
+    "id": 604,
+    "title": "Nekketsu Street Basket: Ganbare Dunk Heroes",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 605,
+    "title": "New Ghostbusters 2",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 606,
+    "title": "New Zealand Story",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 607,
+    "title": "NFL",
+    "publisher": "LJN, Ltd.",
+    "developer": "Enteractive",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 608,
+    "title": "Nigel Mansell's World Championship",
+    "publisher": "Gametek",
+    "developer": "Gremlin Graphics",
+    "category": "Racing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 609,
+    "title": "Nightshade: Part 1 - The Claws of Sutekh",
+    "publisher": "Ultra Software",
+    "developer": "Beam Software",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 610,
+    "title": "Niji no Silkroad",
+    "publisher": "Marvelous Interactive",
+    "developer": "NHK Service Center",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 611,
+    "title": "Ninja Gaiden",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 612,
+    "title": "Ninja Gaiden II: The Dark Sword of Chaos",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 613,
+    "title": "Ninja Gaiden III: The Ancient Ship of Doom",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 614,
+    "title": "Ninja Kid",
+    "publisher": "Bandai",
+    "developer": "Tose",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 615,
+    "title": "Nintendo World Championships 1990",
+    "publisher": "Nintendo",
+    "developer": "Square Co., Ltd.",
+    "category": "Various",
+    "releaseYear": 1990
+  },
+  {
+    "id": 616,
+    "title": "Nintendo World Cup",
+    "publisher": "Nintendo",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 617,
+    "title": "Noah's Ark",
+    "publisher": "Konami",
+    "developer": "Source Research & Development",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 618,
+    "title": "Nobunaga's Ambition",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 619,
+    "title": "Nobunaga's Ambition 2",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1990
+  },
+  {
+    "id": 620,
+    "title": "North & South",
+    "publisher": "Kemco",
+    "developer": "Infogrames",
+    "category": "Strategy",
+    "releaseYear": 1990
+  },
+  {
+    "id": 621,
+    "title": "Nuts & Milk",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Action",
+    "releaseYear": 1984
+  },
+  {
+    "id": 622,
+    "title": "Oeka Kids: Anpanman no Hiragana Daisuki",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 623,
+    "title": "Open Tournament Golf",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 624,
+    "title": "Operation Europe: Path to Victory 1939-45",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 625,
+    "title": "Operation Secret Storm",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 626,
+    "title": "Operation Wolf",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 627,
+    "title": "Orb-3D",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Various",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 628,
+    "title": "Othello",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Kawada",
+    "category": "Traditional",
+    "releaseYear": 1988
+  },
+  {
+    "id": 629,
+    "title": "Over Horizon",
+    "publisher": "Hot-B Co., Ltd.",
+    "developer": "Hot-B Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 630,
+    "title": "Overlord",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "Probe",
+    "category": "Strategy",
+    "releaseYear": 1992
+  },
+  {
+    "id": 631,
+    "title": "P.O.W. - Prisoners of War",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 632,
+    "title": "Pac-Land",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 633,
+    "title": "Pac-Man",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 634,
+    "title": "Pac-Mania",
+    "publisher": "Tengen Ltd.",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 635,
+    "title": "Palamedes",
+    "publisher": "Hot-B Co., Ltd.",
+    "developer": "Hot-B Co., Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 636,
+    "title": "Palamedes II: Star Twinkles",
+    "publisher": "Hot-B Co., Ltd.",
+    "developer": "Hot-B Co., Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 637,
+    "title": "Panic Restaurant",
+    "publisher": "Taito Corporation",
+    "developer": "EIM",
+    "category": "Action",
+    "releaseYear": 1994
+  },
+  {
+    "id": 638,
+    "title": "Paperboy",
+    "publisher": "Mindscape",
+    "developer": "Tengen Ltd.",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 639,
+    "title": "Paperboy 2",
+    "publisher": "Mindscape",
+    "developer": "Tengen Ltd.",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 640,
+    "title": "Parallel World",
+    "publisher": "Varie Corporation",
+    "developer": "EIM",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 641,
+    "title": "Parasol Stars: The Story of Bubble Bobble 3",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 642,
+    "title": "Parodius",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 643,
+    "title": "Peek-A-Boo Poker",
+    "publisher": "Panesian",
+    "developer": "Hacker International",
+    "category": "Traditional",
+    "releaseYear": 1991
+  },
+  {
+    "id": 644,
+    "title": "Penguin-Kun Wars",
+    "publisher": "ASCII Corporation",
+    "developer": "UPL Co., Ltd",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 645,
+    "title": "Pesterminator: The Western Exterminator",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 646,
+    "title": "Phantom Fighter",
+    "publisher": "Fujisankei Communications International",
+    "developer": "Marionette",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 647,
+    "title": "Pinball",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Traditional",
+    "releaseYear": 1985
+  },
+  {
+    "id": 648,
+    "title": "Pinball 2",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 649,
+    "title": "Pinball Quest",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 650,
+    "title": "PinBot",
+    "publisher": "Nintendo",
+    "developer": "Rare, Ltd.",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 651,
+    "title": "Pipe Dream",
+    "publisher": "Bullet-Proof Software",
+    "developer": "Assembly Line, The",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 652,
+    "title": "Platoon",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Ocean Software Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 653,
+    "title": "Play Action Football",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 654,
+    "title": "Plotting",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Puzzle",
+    "releaseYear": 1989
+  },
+  {
+    "id": 655,
+    "title": "Pool of Radiance",
+    "publisher": "U.S. Gold Ltd.",
+    "developer": "Strategic Simulations",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 656,
+    "title": "Pooyan",
+    "publisher": "Hudson Soft",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 657,
+    "title": "Popeye",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 658,
+    "title": "Power Blade",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 659,
+    "title": "Power Blade 2",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 660,
+    "title": "Power Punch 2",
+    "publisher": "American Softworks Corporation",
+    "developer": "Beam Software",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 661,
+    "title": "P'radikus Conflict",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 662,
+    "title": "Predator",
+    "publisher": "Activision",
+    "developer": "Activision",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 663,
+    "title": "Predator: Soon the Hunt Will Begin",
+    "publisher": "Pack-In-Video",
+    "developer": "Pack-In-Video",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 664,
+    "title": "Prince of Persia",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "Brøderbund Software",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 665,
+    "title": "Princess Tomato in the Salad Kingdom",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Puzzle",
+    "releaseYear": 1988
+  },
+  {
+    "id": 666,
+    "title": "Pro Sport Hockey",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 667,
+    "title": "Pro Wrestling",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 668,
+    "title": "Puc-Man",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 669,
+    "title": "Punisher, The",
+    "publisher": "LJN, Ltd.",
+    "developer": "Beam Software",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 670,
+    "title": "Puss N Boots: Pero's Great Adventure",
+    "publisher": "Electro-Brain",
+    "developer": "Shouei System",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 671,
+    "title": "Puyo Puyo",
+    "publisher": "Tokuma Shoten",
+    "developer": "Compile",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 672,
+    "title": "Puzzle",
+    "publisher": "American Video Entertainment",
+    "developer": "American Video Entertainment",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 673,
+    "title": "Puzznic",
+    "publisher": "Nintendo",
+    "developer": "Taito Corporation",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 674,
+    "title": "Pyramid",
+    "publisher": "American Video Entertainment",
+    "developer": "Thin Chen Enterprise",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 675,
+    "title": "Q*bert",
+    "publisher": "Ultra Software",
+    "developer": "D. Gottlieb",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 676,
+    "title": "Qix",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 677,
+    "title": "Quarth",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 678,
+    "title": "Quattro Adventure",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Puzzle",
+    "releaseYear": 1993
+  },
+  {
+    "id": 679,
+    "title": "Quattro Arcade",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Various",
+    "releaseYear": 1992
+  },
+  {
+    "id": 680,
+    "title": "Quattro Sports",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 681,
+    "title": "Quest of Ki",
+    "publisher": "Namco Limited",
+    "developer": "Game Studio",
+    "category": "Puzzle",
+    "releaseYear": 1988
+  },
+  {
+    "id": 682,
+    "title": "R.C. Pro-Am",
+    "publisher": "Nintendo",
+    "developer": "Rare, Ltd.",
+    "category": "Racing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 683,
+    "title": "R.C. Pro-Am 2",
+    "publisher": "Rare, Ltd.",
+    "developer": "Rare, Ltd.",
+    "category": "Racing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 684,
+    "title": "Race America",
+    "publisher": "Absolute Entertainment",
+    "developer": "Imagineering, Inc.",
+    "category": "Racing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 685,
+    "title": "Race Chase II",
+    "publisher": "Square Co., Ltd.",
+    "developer": "Square Co., Ltd.",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 686,
+    "title": "Racket Attack",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Tose",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 687,
+    "title": "Rad Racer",
+    "publisher": "Nintendo",
+    "developer": "Square Co., Ltd.",
+    "category": "Racing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 688,
+    "title": "Rad Racket: Deluxe Tennis 2",
+    "publisher": "American Video Entertainment",
+    "developer": "Idea-Tek",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 689,
+    "title": "Radia Senki: Reimeihen",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 690,
+    "title": "Raid 2020",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 691,
+    "title": "Rainbow Islands",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 692,
+    "title": "Rambo",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Pack-In-Video",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 693,
+    "title": "Rampage",
+    "publisher": "Data East Corporation",
+    "developer": "Bally",
+    "category": "Fighting",
+    "releaseYear": 1988
+  },
+  {
+    "id": 694,
+    "title": "Rampart",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Atari",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 695,
+    "title": "RBI Baseball",
+    "publisher": "Tengen Ltd.",
+    "developer": "Midway Games",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 696,
+    "title": "RBI Baseball 2",
+    "publisher": "Tengen Ltd.",
+    "developer": "Atari",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 697,
+    "title": "RBI Baseball 3",
+    "publisher": "Tengen Ltd.",
+    "developer": "Atari",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 698,
+    "title": "Remote Control",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "RSP",
+    "category": "Strategy",
+    "releaseYear": 1990
+  },
+  {
+    "id": 699,
+    "title": "Ren & Stimpy Show: Buckaroo$",
+    "publisher": "THQ, Inc.",
+    "developer": "Imagineering, Inc.",
+    "category": "Shooter",
+    "releaseYear": 1993
+  },
+  {
+    "id": 700,
+    "title": "Renegade",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Fighting",
+    "releaseYear": 1987
+  },
+  {
+    "id": 701,
+    "title": "Return of the Jedi",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 702,
+    "title": "Ring King",
+    "publisher": "Data East Corporation",
+    "developer": "Namco Limited",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 703,
+    "title": "River City Ransom",
+    "publisher": "Technos",
+    "developer": "Technos",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 704,
+    "title": "Road Blasters",
+    "publisher": "Mindscape",
+    "developer": "Atari",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 705,
+    "title": "Road Fighter",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Racing",
+    "releaseYear": 1985
+  },
+  {
+    "id": 706,
+    "title": "Road Runner",
+    "publisher": "Tengen Ltd.",
+    "developer": "Atari",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 707,
+    "title": "Robin Hood: Prince of Thieves",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "Sculptured Software",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 708,
+    "title": "Robocop",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 709,
+    "title": "Robocop 2",
+    "publisher": "Data East Corporation",
+    "developer": "Ocean Software Ltd.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 710,
+    "title": "Robocop 3",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Ocean Software Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 711,
+    "title": "Robodemons",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 712,
+    "title": "RoboWarrior",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Hudson Soft",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 713,
+    "title": "Rock 'n Ball",
+    "publisher": "NTVIC",
+    "developer": "KID Corp.",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 714,
+    "title": "Rocket Ranger",
+    "publisher": "Kemco",
+    "developer": "Cinemaware",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 715,
+    "title": "Rocketeer",
+    "publisher": "Bandai",
+    "developer": "Realtime Associates",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 716,
+    "title": "Rockin' Kats",
+    "publisher": "Atlus Co., Ltd.",
+    "developer": "Atlus Co., Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 717,
+    "title": "Rodland",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Jaleco Ltd.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 718,
+    "title": "Roger Clemens' MVP Baseball",
+    "publisher": "LJN, Ltd.",
+    "developer": "Sculptured Software",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 719,
+    "title": "Roller Ball",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 720,
+    "title": "Rollerblade Racer",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Tahoe Software Productions",
+    "category": "Sports",
+    "releaseYear": 1993
+  },
+  {
+    "id": 721,
+    "title": "Rollergames",
+    "publisher": "Nintendo",
+    "developer": "Ultrasoft",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 722,
+    "title": "Rolling Thunder",
+    "publisher": "Tengen Ltd.",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 723,
+    "title": "Romance of the Three Kingdoms",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 724,
+    "title": "Romance of the Three Kingdoms 2",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 725,
+    "title": "Romancia: Dragon Slayer Jr.",
+    "publisher": "Tokyo Shoseki",
+    "developer": "Nihon Corp.",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 726,
+    "title": "Roundball: 2-On-2 Challenge",
+    "publisher": "Mindscape",
+    "developer": "Data East Corporation",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 727,
+    "title": "Rush'n Attack",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 728,
+    "title": "Rygar",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 729,
+    "title": "Saint Seiya: Ougon Densetsu",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 730,
+    "title": "Saint Seiya: Ougon Densetsu - Kanketsu Hen",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 731,
+    "title": "Secret Scout in the Temple of Demise",
+    "publisher": "Color Dreams",
+    "developer": "Color Dreams",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 732,
+    "title": "Seicross",
+    "publisher": "Pony Canyon",
+    "developer": "Nihon Corp.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 733,
+    "title": "Seirei Gari",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Adventure",
+    "releaseYear": 1989
+  },
+  {
+    "id": 734,
+    "title": "Sesame Street 1 2 3",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Zippo Games",
+    "category": "Educational",
+    "releaseYear": 1989
+  },
+  {
+    "id": 735,
+    "title": "Sesame Street 1 2 3 & A B C",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Zippo Games",
+    "category": "Educational",
+    "releaseYear": 1991
+  },
+  {
+    "id": 736,
+    "title": "Sesame Street A B C",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Zippo Games",
+    "category": "Educational",
+    "releaseYear": 1989
+  },
+  {
+    "id": 737,
+    "title": "Sesame Street Countdown",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "RSP",
+    "category": "Educational",
+    "releaseYear": 1992
+  },
+  {
+    "id": 738,
+    "title": "Shadow of the Ninja",
+    "publisher": "Natsume, Inc.",
+    "developer": "Natsume, Inc.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 739,
+    "title": "Shadowgate",
+    "publisher": "Kemco",
+    "developer": "ICOM Simulations",
+    "category": "Adventure",
+    "releaseYear": 1989
+  },
+  {
+    "id": 740,
+    "title": "Shatterhand",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Natsume, Inc.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 741,
+    "title": "Shingen the Ruler",
+    "publisher": "Hot-B Co., Ltd.",
+    "developer": "Another",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 742,
+    "title": "Shinobi",
+    "publisher": "Tengen Ltd.",
+    "developer": "Sega",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 743,
+    "title": "Shock Wave",
+    "publisher": "American Game Cartridges",
+    "developer": "American Game Cartridges",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 744,
+    "title": "Shooting Range",
+    "publisher": "Bandai",
+    "developer": "Tose",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 745,
+    "title": "Short Order & Eggsplode",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 746,
+    "title": "Sid Meier's Pirates",
+    "publisher": "Ultra Software",
+    "developer": "MicroProse Ltd.",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 747,
+    "title": "Side Pocket",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 748,
+    "title": "Silent Assault",
+    "publisher": "Color Dreams",
+    "developer": "Joy Van",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 749,
+    "title": "Silent Service",
+    "publisher": "Ultra Software",
+    "developer": "MicroProse Ltd.",
+    "category": "Simulation",
+    "releaseYear": 1989
+  },
+  {
+    "id": 750,
+    "title": "Silk Worm",
+    "publisher": "Sammy Corporation",
+    "developer": "Tecmo, Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 751,
+    "title": "Silver Surfer",
+    "publisher": "Arcadia Systems",
+    "developer": "Software Creations",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 752,
+    "title": "Simpsons: Bart vs. the Space Mutants",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Imagineering, Inc.",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 753,
+    "title": "Simpsons: Bart vs. the World",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Imagineering, Inc.",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 754,
+    "title": "Simpsons: Bartman Meets Radioactive Man",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Imagineering, Inc.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 755,
+    "title": "Skate or Die",
+    "publisher": "Ultra Games",
+    "developer": "Electronic Arts",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 756,
+    "title": "Skate or Die 2: The Search for Double Trouble",
+    "publisher": "Electronic Arts",
+    "developer": "Electronic Arts",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 757,
+    "title": "Ski or Die",
+    "publisher": "Ultra Games",
+    "developer": "Electronic Arts",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 758,
+    "title": "Skull & Crossbones",
+    "publisher": "Domark Software",
+    "developer": "Atari",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 759,
+    "title": "Sky Kid",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Namco Limited",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 760,
+    "title": "Sky Shark",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 761,
+    "title": "Slalom",
+    "publisher": "Nintendo",
+    "developer": "Rare, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 762,
+    "title": "Smash T.V.",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Williams, Inc.",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 763,
+    "title": "Smurfs",
+    "publisher": "Infogrames",
+    "developer": "Infogrames",
+    "category": "Action",
+    "releaseYear": 1994
+  },
+  {
+    "id": 764,
+    "title": "Snake Rattle 'n Roll",
+    "publisher": "Nintendo",
+    "developer": "Rare, Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 765,
+    "title": "Snake's Revenge",
+    "publisher": "Ultra Software",
+    "developer": "Konami",
+    "category": "Adventure",
+    "releaseYear": 1990
+  },
+  {
+    "id": 766,
+    "title": "Snoopy's Silly Sports Spectacular",
+    "publisher": "Kotobuki System",
+    "developer": "Kotobuki System",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 767,
+    "title": "Snow Bros. Nick & Tom",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Toaplan Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 768,
+    "title": "Soccer",
+    "publisher": "Nintendo",
+    "developer": "Iwasaki Electronics",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 769,
+    "title": "Solar Jetman: Hunt for the Golden Warpship",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Zippo Games",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 770,
+    "title": "Solitaire",
+    "publisher": "American Video Entertainment",
+    "developer": "Odyssey Software",
+    "category": "Traditional",
+    "releaseYear": 1992
+  },
+  {
+    "id": 771,
+    "title": "Solomon's Key",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Puzzle",
+    "releaseYear": 1987
+  },
+  {
+    "id": 772,
+    "title": "Solstice: The Quest for the Staff of Demnos",
+    "publisher": "CSG Imagesoft",
+    "developer": "Software Creations",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 773,
+    "title": "Somari the Adventurer",
+    "publisher": "Somari Team",
+    "developer": "Somari Team",
+    "category": "Adventure",
+    "releaseYear": 1994
+  },
+  {
+    "id": 774,
+    "title": "Son Son",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1986
+  },
+  {
+    "id": 775,
+    "title": "Space Invaders",
+    "publisher": "Taito Corporation",
+    "developer": "Taito Corporation",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 776,
+    "title": "Space Shuttle Project",
+    "publisher": "Absolute Entertainment",
+    "developer": "Absolute Entertainment",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 777,
+    "title": "Spartan X 2",
+    "publisher": "Irem",
+    "developer": "Irem",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 778,
+    "title": "Speedball",
+    "publisher": "SOFEL",
+    "developer": "Bitmap Brothers, The",
+    "category": "Fighting",
+    "releaseYear": 1991
+  },
+  {
+    "id": 779,
+    "title": "Spelunker",
+    "publisher": "Brøderbund Software",
+    "developer": "Micro Graphic Image",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 780,
+    "title": "Spelunker II",
+    "publisher": "Brøderbund Software",
+    "developer": "Irem",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 781,
+    "title": "Spider-Man: Return of the Sinister Six",
+    "publisher": "LJN, Ltd.",
+    "developer": "BITS",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 782,
+    "title": "Spiritual Warfare",
+    "publisher": "Wisdom Tree",
+    "developer": "Wisdom Tree",
+    "category": "Role-Playing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 783,
+    "title": "Splatterhouse: Wanpaku Graffiti",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Fighting",
+    "releaseYear": 1989
+  },
+  {
+    "id": 784,
+    "title": "Spot",
+    "publisher": "Arcadia Systems",
+    "developer": "Arcadia Systems",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 785,
+    "title": "Spy Hunter",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Bally",
+    "category": "Racing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 786,
+    "title": "Spy vs. Spy",
+    "publisher": "Kemco",
+    "developer": "First Star Software",
+    "category": "Puzzle",
+    "releaseYear": 1988
+  },
+  {
+    "id": 787,
+    "title": "Sqoon",
+    "publisher": "Irem",
+    "developer": "Home Data",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 788,
+    "title": "Square no Tom Sawyer",
+    "publisher": "Square Co., Ltd.",
+    "developer": "Square Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 789,
+    "title": "Stack Up",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 790,
+    "title": "Stanley: The Search for Dr. Livingston",
+    "publisher": "Electro-Brain",
+    "developer": "Sculptured Software",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 791,
+    "title": "Star Force",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tehkan Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 792,
+    "title": "Star Soldier",
+    "publisher": "Taxan",
+    "developer": "Hudson Soft",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 793,
+    "title": "Star Trek 25th Anniversary",
+    "publisher": "Ultra Games",
+    "developer": "Interplay Productions",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 794,
+    "title": "Star Trek The Next Generation",
+    "publisher": "Absolute Entertainment",
+    "developer": "Absolute Entertainment",
+    "category": "Simulation",
+    "releaseYear": 1993
+  },
+  {
+    "id": 795,
+    "title": "Star Tropics",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 796,
+    "title": "Star Wars",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Adventure",
+    "releaseYear": 1987
+  },
+  {
+    "id": 797,
+    "title": "Star Wars: The Empire Strikes Back",
+    "publisher": "JVC Musical Industries",
+    "developer": "LucasArts / LucasFilm",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 798,
+    "title": "Stargate",
+    "publisher": "HAL Laboratory",
+    "developer": "Williams, Inc.",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 799,
+    "title": "Starship Hector",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 800,
+    "title": "Stealth ATF",
+    "publisher": "Activision",
+    "developer": "Imagineering, Inc.",
+    "category": "Simulation",
+    "releaseYear": 1989
+  },
+  {
+    "id": 801,
+    "title": "STED: Iseki Wakusei no Yabou",
+    "publisher": "K. Amusement Leasing Co.",
+    "developer": "Alpha Denshi",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 802,
+    "title": "Stinger",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 803,
+    "title": "Street Cop",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 804,
+    "title": "Street Fighter 2010: The Final Fight",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 805,
+    "title": "Strider",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 806,
+    "title": "Stronghold",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 807,
+    "title": "Stunt Kids",
+    "publisher": "Camerica",
+    "developer": "Codemasters",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 808,
+    "title": "Summer Carnival '92 - Recca",
+    "publisher": "Naxat Soft",
+    "developer": "KID Corp.",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 809,
+    "title": "Super Arabian",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Sun Electronics",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 810,
+    "title": "Super C",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 811,
+    "title": "Super Cars",
+    "publisher": "Electro-Brain",
+    "developer": "Magnetic Fields",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 812,
+    "title": "Super Dodge Ball",
+    "publisher": "CSG Imagesoft",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 813,
+    "title": "Super Dyna'mix Badminton",
+    "publisher": "Vap Inc.",
+    "developer": "Pax Softonica",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 814,
+    "title": "Super Glove Ball",
+    "publisher": "Mattel Electronics",
+    "developer": "Rare, Ltd.",
+    "category": "Action",
+    "releaseYear": null
+  },
+  {
+    "id": 815,
+    "title": "Super Mario Bros, Duck Hunt, & World Class Track Meet",
+    "publisher": "Nintendo",
+    "developer": "Bandai",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 816,
+    "title": "Super Mario Bros.",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1985
+  },
+  {
+    "id": 817,
+    "title": "Super Mario Bros. 2",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 818,
+    "title": "Super Mario Bros. 3",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 819,
+    "title": "Super Mario Bros.& Duck Hunt",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1985
+  },
+  {
+    "id": 820,
+    "title": "Super Pitfall",
+    "publisher": "Activision",
+    "developer": "Micronics",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 821,
+    "title": "Super Spike V'Ball",
+    "publisher": "Nintendo",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 822,
+    "title": "Super Spike V'Ball / Nintendo World Cup",
+    "publisher": "Nintendo",
+    "developer": "Technos",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 823,
+    "title": "Super Sprint",
+    "publisher": "Tengen Ltd.",
+    "developer": "Atari",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 824,
+    "title": "Super Spy Hunter",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Tokai Engineering",
+    "category": "Shooter",
+    "releaseYear": 1992
+  },
+  {
+    "id": 825,
+    "title": "Super Star Wars",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 826,
+    "title": "Super Team Games",
+    "publisher": "Nintendo",
+    "developer": "Bandai",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 827,
+    "title": "Super Turrican",
+    "publisher": "Imagineer",
+    "developer": "Rainbow Arts",
+    "category": "Shooter",
+    "releaseYear": 1993
+  },
+  {
+    "id": 828,
+    "title": "Super Xevious",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 829,
+    "title": "Superman",
+    "publisher": "Kotobuki System",
+    "developer": "First Star Software",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 830,
+    "title": "Swamp Thing",
+    "publisher": "THQ, Inc.",
+    "developer": "Imagineering, Inc.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 831,
+    "title": "Sweet Home",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 832,
+    "title": "Sword Master",
+    "publisher": "Activision",
+    "developer": "Athena Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 833,
+    "title": "Swords and Serpents",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Interplay Productions",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 834,
+    "title": "Taboo: The Sixth Sense",
+    "publisher": "Tradewest, Inc.",
+    "developer": "Rare, Ltd.",
+    "category": "Traditional",
+    "releaseYear": 1989
+  },
+  {
+    "id": 835,
+    "title": "Tag Team Wrestling",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Sports",
+    "releaseYear": 1986
+  },
+  {
+    "id": 836,
+    "title": "Tagin' Dragon",
+    "publisher": "Bunch Games",
+    "developer": "Sachen",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 837,
+    "title": "Takahashi Meijin no Boukenjima 4",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Puzzle",
+    "releaseYear": 1994
+  },
+  {
+    "id": 838,
+    "title": "TaleSpin",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 839,
+    "title": "Tank",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 840,
+    "title": "Target Renegade",
+    "publisher": "Taito Corporation",
+    "developer": "Ocean Software Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 841,
+    "title": "Tecmo Baseball",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 842,
+    "title": "Tecmo Bowl",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 843,
+    "title": "Tecmo Cup",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 844,
+    "title": "Tecmo NBA Basketball",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 845,
+    "title": "Tecmo Super Bowl",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 846,
+    "title": "Tecmo World Wrestling",
+    "publisher": "Tecmo, Ltd.",
+    "developer": "Tecmo, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 847,
+    "title": "Teenage Mutant Ninja Turtles",
+    "publisher": "Ultra Software",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 848,
+    "title": "Teenage Mutant Ninja Turtles",
+    "publisher": "Ultra Software",
+    "developer": "Konami",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 849,
+    "title": "Teenage Mutant Ninja Turtles 3: The Manhattan Project",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Fighting",
+    "releaseYear": 1992
+  },
+  {
+    "id": 850,
+    "title": "Teenage Mutant Ninja Turtles: Tournament Fighters",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Fighting",
+    "releaseYear": 1993
+  },
+  {
+    "id": 851,
+    "title": "Tenchi wo Kurau II: Shokatsu Koumei-den",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 852,
+    "title": "Tenkaichi Bushi - Keru Naguuru",
+    "publisher": "Namco Limited",
+    "developer": "Game Studio",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 853,
+    "title": "Tennis",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1985
+  },
+  {
+    "id": 854,
+    "title": "Terminator",
+    "publisher": "Mindscape",
+    "developer": "Radical Entertainment",
+    "category": "Racing",
+    "releaseYear": 1992
+  },
+  {
+    "id": 855,
+    "title": "Terminator 2 - Judgment Day",
+    "publisher": "LJN, Ltd.",
+    "developer": "Software Creations",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 856,
+    "title": "Terra Cresta",
+    "publisher": "Nihon Corp.",
+    "developer": "Nihon Corp.",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 857,
+    "title": "Tetris",
+    "publisher": "Tengen Ltd.",
+    "developer": "AcademySoft",
+    "category": "Puzzle",
+    "releaseYear": 1988
+  },
+  {
+    "id": 858,
+    "title": "Tetris 2",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1993
+  },
+  {
+    "id": 859,
+    "title": "Thexder",
+    "publisher": "Square Co., Ltd.",
+    "developer": "Game Arts",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 860,
+    "title": "Three Stooges",
+    "publisher": "Activision",
+    "developer": "Cinemaware",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 861,
+    "title": "Thunder & Lightning",
+    "publisher": "Romstar Incorporated",
+    "developer": "Visco Corporation",
+    "category": "Action",
+    "releaseYear": null
+  },
+  {
+    "id": 862,
+    "title": "Thunderbirds",
+    "publisher": "Activision",
+    "developer": "Pack-In-Video",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 863,
+    "title": "Thundercade / Twin Formation",
+    "publisher": "Sammy Corporation",
+    "developer": "SETA Corporation",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 864,
+    "title": "Tiger Heli",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Toaplan Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1987
+  },
+  {
+    "id": 865,
+    "title": "Tiles of Fate",
+    "publisher": "American Video Entertainment",
+    "developer": "American Video Entertainment",
+    "category": "Puzzle",
+    "releaseYear": 1990
+  },
+  {
+    "id": 866,
+    "title": "Time Lord",
+    "publisher": "Milton Bradley",
+    "developer": "Rare, Ltd.",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 867,
+    "title": "Time Zone",
+    "publisher": "Sigma Enterprises",
+    "developer": "EIM",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 868,
+    "title": "Times of Lore",
+    "publisher": "Toho Company",
+    "developer": "ORIGIN Systems",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 869,
+    "title": "Tiny Toon Adventures",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 870,
+    "title": "Tiny Toon Adventures 2: Trouble in Wackyland",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 871,
+    "title": "To the Earth",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 872,
+    "title": "Toki: Going Ape Spit",
+    "publisher": "Taito Corporation",
+    "developer": "Tad Corporation",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 873,
+    "title": "Tokoro-san no mamoru mo semeru mo",
+    "publisher": "Epic Marketing",
+    "developer": "ISCO",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 874,
+    "title": "Tom & Jerry: The Ultimate Game of Cat and Mouse",
+    "publisher": "Hi-Tech Expressions",
+    "developer": "Software Creations",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 875,
+    "title": "Tombs & Treasure",
+    "publisher": "Infocom",
+    "developer": "Nihon Corp.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 876,
+    "title": "Toobin'",
+    "publisher": "Tengen Ltd.",
+    "developer": "Tengen Ltd.",
+    "category": "Action",
+    "releaseYear": 1989
+  },
+  {
+    "id": 877,
+    "title": "Top Gun",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Simulation",
+    "releaseYear": 1987
+  },
+  {
+    "id": 878,
+    "title": "Top Gun: The Second Mission",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Simulation",
+    "releaseYear": 1990
+  },
+  {
+    "id": 879,
+    "title": "Top Players' Tennis",
+    "publisher": "Asmik Corporation",
+    "developer": "Home Data",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 880,
+    "title": "Total Recall",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Interplay Productions",
+    "category": "Racing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 881,
+    "title": "Totally Rad",
+    "publisher": "Jaleco Ltd.",
+    "developer": "Aicom Corporation",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 882,
+    "title": "TouchDown Fever",
+    "publisher": "SNK Corporation",
+    "developer": "SNK Corporation",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 883,
+    "title": "Tower of Druaga",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 884,
+    "title": "Tower Toppler",
+    "publisher": "Triffix Entertainment",
+    "developer": "Hewson Consultants",
+    "category": "Strategy",
+    "releaseYear": 1991
+  },
+  {
+    "id": 885,
+    "title": "Town & Country Surf Designs: Wood & Water Rage",
+    "publisher": "LJN, Ltd.",
+    "developer": "LJN, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 886,
+    "title": "Toxic Crusaders",
+    "publisher": "Bandai",
+    "developer": "Bandai",
+    "category": "Fighting",
+    "releaseYear": 1992
+  },
+  {
+    "id": 887,
+    "title": "Track & Field 2",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 888,
+    "title": "Transformers: Secret of Optimus Prime",
+    "publisher": "TAKARA Co., Ltd.",
+    "developer": "ISCO",
+    "category": "Action",
+    "releaseYear": 1986
+  },
+  {
+    "id": 889,
+    "title": "Treasure Master",
+    "publisher": "American Softworks Corporation",
+    "developer": "Software Creations",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 890,
+    "title": "Trog",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Bally",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 891,
+    "title": "Trojan",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Fighting",
+    "releaseYear": 1987
+  },
+  {
+    "id": 892,
+    "title": "Twin Cobra",
+    "publisher": "Sammy Corporation",
+    "developer": "Toaplan Co., Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 893,
+    "title": "Twin Eagle - Revenge Joe's Brother",
+    "publisher": "Romstar Incorporated",
+    "developer": "SETA Corporation",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 894,
+    "title": "Twinbee 3: Poko Poko Daimao",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Shooter",
+    "releaseYear": 1989
+  },
+  {
+    "id": 895,
+    "title": "Uchûkeibitai SDF",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 896,
+    "title": "UFO",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 897,
+    "title": "Ufouria: The Saga",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "SunSoft, Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 898,
+    "title": "Ultima III: Exodus",
+    "publisher": "Pony Canyon",
+    "developer": "ORIGIN Systems",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 899,
+    "title": "Ultima IV: Quest of the Avatar",
+    "publisher": "Pony Canyon",
+    "developer": "ORIGIN Systems",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 900,
+    "title": "Ultima V: Warriors of Destiny",
+    "publisher": "Pony Canyon",
+    "developer": "ORIGIN Systems",
+    "category": "Role-Playing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 901,
+    "title": "Ultimate Basketball",
+    "publisher": "Sammy Corporation",
+    "developer": "Aicom Corporation",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 902,
+    "title": "Ultimate League Soccer",
+    "publisher": "American Video Entertainment",
+    "developer": "C&E",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 903,
+    "title": "Uncanny X-Men",
+    "publisher": "LJN, Ltd.",
+    "developer": "LJN, Ltd.",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 904,
+    "title": "Uncharted Waters",
+    "publisher": "KOEI Co., Ltd.",
+    "developer": "KOEI Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 905,
+    "title": "Uninvited",
+    "publisher": "Kemco",
+    "developer": "ICOM Simulations",
+    "category": "Adventure",
+    "releaseYear": 1991
+  },
+  {
+    "id": 906,
+    "title": "Untouchables",
+    "publisher": "Ocean Software Ltd.",
+    "developer": "Special FX Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 907,
+    "title": "Urban Champion",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Fighting",
+    "releaseYear": 1986
+  },
+  {
+    "id": 908,
+    "title": "Ushio to Tora: Shin'en no Daiyou",
+    "publisher": "Yutaka",
+    "developer": "Yutaka",
+    "category": "Role-Playing",
+    "releaseYear": 1993
+  },
+  {
+    "id": 909,
+    "title": "Valis: The Fantasm Soldier",
+    "publisher": "Tokuma Shoten",
+    "developer": "Telenet Japan",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 910,
+    "title": "Valkyrie no Bouken: Toki no Kagi Densetsu",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Role-Playing",
+    "releaseYear": 1986
+  },
+  {
+    "id": 911,
+    "title": "Vegas Dream",
+    "publisher": "HAL Laboratory",
+    "developer": "HAL Laboratory",
+    "category": "Traditional",
+    "releaseYear": 1990
+  },
+  {
+    "id": 912,
+    "title": "Venice Beach Volleyball",
+    "publisher": "American Video Entertainment",
+    "developer": "Idea-Tek",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 913,
+    "title": "Venus Senki",
+    "publisher": "Varie Corporation",
+    "developer": "Varie Corporation",
+    "category": "Racing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 914,
+    "title": "Vice: Project Doom",
+    "publisher": "Sammy Corporation",
+    "developer": "Aicom Corporation",
+    "category": "Racing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 915,
+    "title": "Vindicators",
+    "publisher": "Tengen Ltd.",
+    "developer": "Tengen Ltd.",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 916,
+    "title": "Volley Ball",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 917,
+    "title": "Wacky Races",
+    "publisher": "Atlus Co., Ltd.",
+    "developer": "Atlus Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 918,
+    "title": "Wall Street Kid",
+    "publisher": "SOFEL",
+    "developer": "SOFEL",
+    "category": "Simulation",
+    "releaseYear": 1990
+  },
+  {
+    "id": 919,
+    "title": "Wally Bear and the NO! Gang",
+    "publisher": "American Video Entertainment",
+    "developer": "American Game Cartridges",
+    "category": "Educational",
+    "releaseYear": 1992
+  },
+  {
+    "id": 920,
+    "title": "Walt Disney's The Jungle Book",
+    "publisher": "Virgin Games, Ltd.",
+    "developer": "Eurocom Entertainment Software",
+    "category": "Action",
+    "releaseYear": 1994
+  },
+  {
+    "id": 921,
+    "title": "Wario's Woods",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1994
+  },
+  {
+    "id": 922,
+    "title": "Wayne Gretzky Hockey",
+    "publisher": "THQ, Inc.",
+    "developer": "Bethesda Softworks",
+    "category": "Sports",
+    "releaseYear": 1991
+  },
+  {
+    "id": 923,
+    "title": "Wayne's World",
+    "publisher": "THQ, Inc.",
+    "developer": "Radical Entertainment",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 924,
+    "title": "WCW: World Championship Wrestling",
+    "publisher": "Pony Canyon",
+    "developer": "Nihon Corp.",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 925,
+    "title": "Werewolf: The Last Warrior",
+    "publisher": "Data East Corporation",
+    "developer": "Data East Corporation",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 926,
+    "title": "Wheel Of Fortune",
+    "publisher": "Gametek",
+    "developer": "Rare, Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1988
+  },
+  {
+    "id": 927,
+    "title": "Wheel Of Fortune: Family Edition",
+    "publisher": "IJE",
+    "developer": "Rare, Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1990
+  },
+  {
+    "id": 928,
+    "title": "Wheel Of Fortune: Featuring Vanna White",
+    "publisher": "IJE",
+    "developer": "Imagitec Design",
+    "category": "Strategy",
+    "releaseYear": 1992
+  },
+  {
+    "id": 929,
+    "title": "Wheel Of Fortune: Junior Edition",
+    "publisher": "IJE",
+    "developer": "Rare, Ltd.",
+    "category": "Strategy",
+    "releaseYear": 1989
+  },
+  {
+    "id": 930,
+    "title": "Where in Time is Carmen Sandiego",
+    "publisher": "Konami",
+    "developer": "Brøderbund Software",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 931,
+    "title": "Where's Waldo?",
+    "publisher": "THQ, Inc.",
+    "developer": "Bethesda Softworks",
+    "category": "Puzzle",
+    "releaseYear": 1991
+  },
+  {
+    "id": 932,
+    "title": "Who Framed Roger Rabbit?",
+    "publisher": "LJN, Ltd.",
+    "developer": "Rare, Ltd.",
+    "category": "Adventure",
+    "releaseYear": 1989
+  },
+  {
+    "id": 933,
+    "title": "Widget",
+    "publisher": "Atlus Co., Ltd.",
+    "developer": "Atlus Co., Ltd.",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 934,
+    "title": "Wild Gunman",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Shooter",
+    "releaseYear": 1985
+  },
+  {
+    "id": 935,
+    "title": "Willow",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Role-Playing",
+    "releaseYear": 1989
+  },
+  {
+    "id": 936,
+    "title": "Wily & Right no RockBoard: That's Paradise",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Capcom Co., Ltd.",
+    "category": "Traditional",
+    "releaseYear": 1993
+  },
+  {
+    "id": 937,
+    "title": "Winter Games",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Action Graphics",
+    "category": "Sports",
+    "releaseYear": 1987
+  },
+  {
+    "id": 938,
+    "title": "Wizardry II: Llylgamyn no Densetsu",
+    "publisher": "ASCII Corporation",
+    "developer": "Sir-tech Software",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 939,
+    "title": "Wizardry III: Diamond no Kishi",
+    "publisher": "ASCII Corporation",
+    "developer": "Sir-tech Software",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 940,
+    "title": "Wizardry: Proving Grounds of the Mad Overlord",
+    "publisher": "NEXOFT",
+    "developer": "Sir-tech Software",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 941,
+    "title": "Wizards & Warriors",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Rare, Ltd.",
+    "category": "Action",
+    "releaseYear": 1987
+  },
+  {
+    "id": 942,
+    "title": "Wizards & Warriors III: Kuros: Visions of Power",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Zippo Games",
+    "category": "Adventure",
+    "releaseYear": 1992
+  },
+  {
+    "id": 943,
+    "title": "Wonder Boy",
+    "publisher": "Hack",
+    "developer": "Hack",
+    "category": null,
+    "releaseYear": null
+  },
+  {
+    "id": 944,
+    "title": "World Champ: Super Boxing Great Fight",
+    "publisher": "Romstar Incorporated",
+    "developer": "Romstar Incorporated",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 945,
+    "title": "World Class Track Meet",
+    "publisher": "Nintendo",
+    "developer": "Bandai",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 946,
+    "title": "World Games",
+    "publisher": "Milton Bradley",
+    "developer": "Epyx, Inc.",
+    "category": "Sports",
+    "releaseYear": 1989
+  },
+  {
+    "id": 947,
+    "title": "Wrath of the Black Manta",
+    "publisher": "Taito Corporation",
+    "developer": "Kyugo Boueki",
+    "category": "Fighting",
+    "releaseYear": 1990
+  },
+  {
+    "id": 948,
+    "title": "Wrecking Crew",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Puzzle",
+    "releaseYear": 1985
+  },
+  {
+    "id": 949,
+    "title": "Wurm: Journey to the Center of the Earth",
+    "publisher": "Asmik Corporation",
+    "developer": "Cyclone System",
+    "category": "Shooter",
+    "releaseYear": 1991
+  },
+  {
+    "id": 950,
+    "title": "WWF Wrestlemania",
+    "publisher": "Acclaim Entertainment",
+    "developer": "Rare, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1988
+  },
+  {
+    "id": 951,
+    "title": "WWF Wrestlemania Challenge",
+    "publisher": "LJN, Ltd.",
+    "developer": "Rare, Ltd.",
+    "category": "Sports",
+    "releaseYear": 1990
+  },
+  {
+    "id": 952,
+    "title": "WWF Wrestlemania: Steel Cage Challenge",
+    "publisher": "LJN, Ltd.",
+    "developer": "Sculptured Software",
+    "category": "Sports",
+    "releaseYear": 1992
+  },
+  {
+    "id": 953,
+    "title": "Xenophobe",
+    "publisher": "SunSoft, Ltd.",
+    "developer": "Bally",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 954,
+    "title": "Xevious",
+    "publisher": "Bandai",
+    "developer": "Namco Limited",
+    "category": "Shooter",
+    "releaseYear": 1988
+  },
+  {
+    "id": 955,
+    "title": "Xexyz",
+    "publisher": "Hudson Soft",
+    "developer": "Hudson Soft",
+    "category": "Shooter",
+    "releaseYear": 1990
+  },
+  {
+    "id": 956,
+    "title": "Yie Ar Kung-Fu",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Fighting",
+    "releaseYear": 1985
+  },
+  {
+    "id": 957,
+    "title": "Yo! Noid",
+    "publisher": "Capcom Co., Ltd.",
+    "developer": "Now Production",
+    "category": "Action",
+    "releaseYear": 1990
+  },
+  {
+    "id": 958,
+    "title": "Yokai Douchuuki",
+    "publisher": "Namco Limited",
+    "developer": "Namco Limited",
+    "category": "Action",
+    "releaseYear": 1988
+  },
+  {
+    "id": 959,
+    "title": "Yoshi",
+    "publisher": "Nintendo",
+    "developer": "Game Freak, Inc.",
+    "category": "Puzzle",
+    "releaseYear": 1992
+  },
+  {
+    "id": 960,
+    "title": "Yoshi's Cookie",
+    "publisher": "Nintendo",
+    "developer": "Bullet-Proof Software",
+    "category": "Puzzle",
+    "releaseYear": 1993
+  },
+  {
+    "id": 961,
+    "title": "Young Indiana Jones Chronicles",
+    "publisher": "Jaleco Ltd.",
+    "developer": "LucasArts / LucasFilm",
+    "category": "Action",
+    "releaseYear": 1992
+  },
+  {
+    "id": 962,
+    "title": "Ys",
+    "publisher": "Victor Musical Industries, Inc.",
+    "developer": "Nihon Corp.",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 963,
+    "title": "Ys II: Ancient Ys Vanished: The Final Chapter",
+    "publisher": "Marvelous Interactive",
+    "developer": "Nihon Corp.",
+    "category": "Role-Playing",
+    "releaseYear": 1990
+  },
+  {
+    "id": 964,
+    "title": "Ys III: Wanderers from Ys",
+    "publisher": "Victor Musical Industries, Inc.",
+    "developer": "Nihon Corp.",
+    "category": "Role-Playing",
+    "releaseYear": 1991
+  },
+  {
+    "id": 965,
+    "title": "Yume Penguin Monogatari",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1991
+  },
+  {
+    "id": 966,
+    "title": "Zanac A.I.",
+    "publisher": "Pony Canyon",
+    "developer": "Compile",
+    "category": "Shooter",
+    "releaseYear": 1986
+  },
+  {
+    "id": 967,
+    "title": "Zelda II: The Adventure of Link",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Role-Playing",
+    "releaseYear": 1988
+  },
+  {
+    "id": 968,
+    "title": "Zen: Intergalactic Ninja",
+    "publisher": "Konami",
+    "developer": "Konami",
+    "category": "Action",
+    "releaseYear": 1993
+  },
+  {
+    "id": 969,
+    "title": "Zoda's Revenge: Star Tropics 2",
+    "publisher": "Nintendo",
+    "developer": "Nintendo",
+    "category": "Adventure",
+    "releaseYear": 1994
+  },
+  {
+    "id": 970,
+    "title": "Zombie Hunter",
+    "publisher": "Hi-Score Media Work",
+    "developer": "Hi-Score Media Work",
+    "category": "Role-Playing",
+    "releaseYear": 1987
+  },
+  {
+    "id": 971,
+    "title": "Zombie Nation",
+    "publisher": "Meldac Software",
+    "developer": "Live Planning",
+    "category": "Shooter",
+    "releaseYear": 1991
+  }
+]
