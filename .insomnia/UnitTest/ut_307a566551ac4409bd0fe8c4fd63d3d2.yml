@@ -1,0 +1,26 @@
+_id: ut_307a566551ac4409bd0fe8c4fd63d3d2
+type: UnitTest
+parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
+modified: 1639979477545
+created: 1639979304023
+requestId: req_04370e7686ac421d8058883c941844d9
+name: Category returns an array of all games in specified category
+code: |-
+  const response = await insomnia.send();
+  const body = JSON.parse(response.data);
+
+  expect(body).to.be.an('object');
+
+  const games = body.data;
+  expect(games).to.be.an('array');
+
+  const game1 = games[0];
+  expect(game1).to.have.property('title');
+  expect(game1).to.have.property('category');
+  expect(game1).to.have.property('developer');
+  expect(game1).to.have.property('publisher');
+  expect(game1).to.have.property('releaseYear');
+
+  expect(game1.category).to.equal('Puzzle');
+  expect(games[1].category).to.equal('Puzzle');
+  expect(games[2].category).to.equal('Puzzle');

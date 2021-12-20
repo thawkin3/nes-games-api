@@ -1,20 +1,18 @@
-_id: ut_d3af67a462904092b05d912afc8f79a5
+_id: ut_bed9c1e876d446f6b7858cf2980ac881
 type: UnitTest
 parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
-modified: 1639979343931
-created: 1639975759011
-requestId: req_6d61bf9d9d3043b8990acc6178473b16
-name: Games returns an array of games
+modified: 1639979191717
+created: 1639979042559
+requestId: req_246417aed82b49059ff0ac29ccf7e031
+name: Game returns an object with game data
 code: |-
   const response = await insomnia.send();
   const body = JSON.parse(response.data);
 
   expect(body).to.be.an('object');
 
-  const games = body.data;
-  expect(games).to.be.an('array');
-
-  const game = games[0];
+  const game = body.data;
+  expect(game).to.be.an('object');
   expect(game).to.have.property('title');
   expect(game).to.have.property('category');
   expect(game).to.have.property('developer');

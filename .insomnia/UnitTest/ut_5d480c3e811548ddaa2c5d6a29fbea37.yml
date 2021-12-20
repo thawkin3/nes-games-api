@@ -1,0 +1,17 @@
+_id: ut_5d480c3e811548ddaa2c5d6a29fbea37
+type: UnitTest
+parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
+modified: 1639979254337
+created: 1639979124130
+requestId: req_d69487c99b2d48bc9bf50f7df82a2ef6
+name: Categories returns an array of categories
+code: |-
+  const response = await insomnia.send();
+  const body = JSON.parse(response.data);
+
+  expect(body).to.be.an('object');
+
+  const categories = body.data;
+  expect(categories).to.be.an('array');
+  expect(categories).to.contain('Action');
+  expect(categories).to.contain('Puzzle');
