@@ -1,0 +1,26 @@
+_id: ut_baa5a284a1f7420aae5e7043de09f9d9
+type: UnitTest
+parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
+modified: 1639980373544
+created: 1639980319041
+requestId: req_8beb14f0f6fc451994912c362cbd5568
+name: Release year returns an array of all games released in specified year
+code: |-
+  const response = await insomnia.send();
+  const body = JSON.parse(response.data);
+
+  expect(body).to.be.an('object');
+
+  const games = body.data;
+  expect(games).to.be.an('array');
+
+  const game1 = games[0];
+  expect(game1).to.have.property('title');
+  expect(game1).to.have.property('category');
+  expect(game1).to.have.property('developer');
+  expect(game1).to.have.property('publisher');
+  expect(game1).to.have.property('releaseYear');
+
+  expect(game1.releaseYear).to.equal(1985);
+  expect(games[1].releaseYear).to.equal(1985);
+  expect(games[2].releaseYear).to.equal(1985);
