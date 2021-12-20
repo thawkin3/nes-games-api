@@ -1,0 +1,21 @@
+_id: req_2033dacdb0eb4563a5a7b0a901e8401e
+type: Request
+parentId: wrk_2e09b0b73486466d83fd183c86476332
+modified: 1639975629876
+created: 1639975627202
+url: http://localhost:3000/publishers/Capcom Co., Ltd.
+name: Publisher
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1638820200145.0781
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

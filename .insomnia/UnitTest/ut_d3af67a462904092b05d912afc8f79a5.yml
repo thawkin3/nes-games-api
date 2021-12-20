@@ -1,0 +1,11 @@
+_id: ut_d3af67a462904092b05d912afc8f79a5
+type: UnitTest
+parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
+modified: 1639975896687
+created: 1639975759011
+requestId: req_6d61bf9d9d3043b8990acc6178473b16
+name: Games returns an object of games
+code: |-
+  const response = await insomnia.send();
+  const body = JSON.parse(response.data);
+  expect(body).to.be.an('object');

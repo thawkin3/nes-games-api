@@ -1,0 +1,21 @@
+_id: req_7f7d6c7e7d2f471e92dc048ba508dc1b
+type: Request
+parentId: wrk_2e09b0b73486466d83fd183c86476332
+modified: 1639975307556
+created: 1639975242748
+url: http://localhost:3000/
+name: Health Check
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1639975242748
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

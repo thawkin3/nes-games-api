@@ -1,0 +1,21 @@
+_id: req_a5c61e294fa04a96863fa60c2a78f9ac
+type: Request
+parentId: wrk_2e09b0b73486466d83fd183c86476332
+modified: 1639975547556
+created: 1639975542701
+url: http://localhost:3000/releaseyears
+name: Release Years
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1638801265023.7188
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

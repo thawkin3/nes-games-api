@@ -1,0 +1,10 @@
+_id: ut_5e3448b5fa9949099f6a4d115efdb885
+type: UnitTest
+parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
+modified: 1639975907763
+created: 1639975191993
+requestId: req_7f7d6c7e7d2f471e92dc048ba508dc1b
+name: Health check returns 200
+code: |-
+  const response = await insomnia.send();
+  expect(response.status).to.equal(200);

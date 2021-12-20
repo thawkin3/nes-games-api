@@ -1,0 +1,21 @@
+_id: req_8beb14f0f6fc451994912c362cbd5568
+type: Request
+parentId: wrk_2e09b0b73486466d83fd183c86476332
+modified: 1639975647288
+created: 1639975643929
+url: http://localhost:3000/releaseyears/1985
+name: Release Year
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1638782329902.3594
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
