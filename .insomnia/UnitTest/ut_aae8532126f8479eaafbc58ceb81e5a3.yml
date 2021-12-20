@@ -1,0 +1,17 @@
+_id: ut_aae8532126f8479eaafbc58ceb81e5a3
+type: UnitTest
+parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
+modified: 1639979809781
+created: 1639979756864
+requestId: req_7d55eeac3cda4dabbe0060d01cb55efe
+name: Publishers returns an array of publishers
+code: |-
+  const response = await insomnia.send();
+  const body = JSON.parse(response.data);
+
+  expect(body).to.be.an('object');
+
+  const publishers = body.data;
+  expect(publishers).to.be.an('array');
+  expect(publishers).to.contain('Nintendo');
+  expect(publishers).to.contain('Konami');
