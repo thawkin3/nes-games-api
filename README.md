@@ -1,6 +1,6 @@
 # NES Games API
 
-This is a simple API built with Node and Express that returns metadata for every NES game ever published.
+This is a simple REST API built with Node and Express that returns metadata for every NES game ever published.
 
 ## Running the app locally
 

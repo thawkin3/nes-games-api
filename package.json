@@ -1,7 +1,7 @@
 {
   "name": "nes-games-api",
   "version": "1.0.0",
-  "description": "API built with Node and Express that returns metadata for every NES game ever published",
+  "description": "REST API built with Node and Express that returns metadata for every NES game ever published",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write .",
