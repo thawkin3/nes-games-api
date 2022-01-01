@@ -1,7 +1,7 @@
 _id: ut_11e8c0f6cdf741eea1ef5a40d523a33f
 type: UnitTest
 parentId: uts_c7a5ee3159a843699d43aa0369bb64c8
-modified: 1639980326913
+modified: 1641069178470
 created: 1639980163730
 requestId: req_a5c61e294fa04a96863fa60c2a78f9ac
 name: Release years returns an array of release years
@@ -25,5 +25,5 @@ code: |-
   expect(releaseYears).to.contain(1992);
   expect(releaseYears).to.contain(1993);
   expect(releaseYears).to.contain(1994);
-  expect(releaseYears).to.contain(1995);
+  expect(releaseYears).to.contain(19959);
   expect(releaseYears).not.to.contain(1996);
