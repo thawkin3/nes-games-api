@@ -1,6 +1,6 @@
 # NES Games API
 
-This is a simple REST API built with Node and Express that returns metadata for every NES game ever published. Tests were written using Insomnia and the Inso CLI tool.
+This is a simple REST API built with Node and Express that returns metadata for every NES game ever published. Tests were written using Insomnia and the Inso CLI tool and are run as part of a continuous integration pipeline using GitHub Actions.
 
 ## Running the App Locally
 
