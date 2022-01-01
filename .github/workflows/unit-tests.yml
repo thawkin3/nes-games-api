@@ -1,4 +1,4 @@
-name: Unit Tests
+name: NES Games API CI
 
 on:
   push:
@@ -12,11 +12,17 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout branch
+        uses: actions/checkout@v2
+
       - name: Use Node.js 14.x
         uses: actions/setup-node@v2
         with:
           node-version: 14.x
           cache: 'yarn'
-      - run: yarn install --frozen-lockfile
-      - run: yarn ci:start-and-test
+
+      - name: Install dependencies
+        run: yarn install --frozen-lockfile
+
+      - name: Start server and run unit tests
+        run: yarn ci:start-and-test
