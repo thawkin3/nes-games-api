@@ -4,8 +4,7 @@
   "description": "REST API built with Node and Express that returns metadata for every NES game ever published",
   "main": "index.js",
   "scripts": {
-    "ci:start-and-test": "run-p start ci:test",
-    "ci:start-and-test2": "concurrently -k -s=first \"yarn start\" \"yarn ci:test\"",
+    "ci:start-and-test": "concurrently -k -s=first \"yarn start\" \"yarn ci:test\"",
     "ci:test": "wait-on http://localhost:3000 && yarn test",
     "format": "prettier --write .",
     "format-watch": "onchange . -- prettier --write {{changed}}",
@@ -31,7 +30,6 @@
   "devDependencies": {
     "concurrently": "^6.5.1",
     "insomnia-inso": "^2.4.1",
-    "npm-run-all": "^4.1.5",
     "onchange": "^7.1.0",
     "prettier": "^2.4.1",
     "wait-on": "^6.0.0"
